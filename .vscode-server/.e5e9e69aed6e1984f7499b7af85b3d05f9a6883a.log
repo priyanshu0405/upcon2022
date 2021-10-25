@@ -1,0 +1,39 @@
+
+
+*
+* Visual Studio Code Server
+*
+* Reminder: You may only use this software with Visual Studio family products,
+* as described in the license https://aka.ms/vscode-remote/license
+*
+
+
+IP Address: 172.31.1.38
+Extension host agent listening on 50285
+
+
+[11:23:08] Extension host agent started.
+[11:23:12] [127.0.0.1][6316b903][ExtensionHostConnection] New connection established.
+bash: cannot set terminal process group (-1): Inappropriate ioctl for device
+bash: no job control in this shell
+[11:23:12] [127.0.0.1][e256cad2][ManagementConnection] New connection established.
+[11:23:12] [127.0.0.1][6316b903][ExtensionHostConnection] <21896> Launched Extension Host Process.
+[11:23:32] [127.0.0.1][e256cad2][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[11:23:33] [127.0.0.1][6316b903][ExtensionHostConnection] <21896> Extension Host Process exited with code: 0, signal: null.
+Last EH closed, waiting before shutting down
+[11:23:33] Last EH closed, waiting before shutting down
+Got delay-shutdown request while in shutdown timeout, delaying
+[11:23:43] Got delay-shutdown request while in shutdown timeout, delaying
+Cancelling previous shutdown timeout
+[11:23:43] Cancelling previous shutdown timeout
+[11:23:43] [127.0.0.1][ab95ddec][ExtensionHostConnection] New connection established.
+[11:23:43] [127.0.0.1][ab95ddec][ExtensionHostConnection] <21988> Launched Extension Host Process.
+[11:23:43] [127.0.0.1][de0022d4][ManagementConnection] New connection established.
+New EH opened, aborting shutdown
+[11:28:43] New EH opened, aborting shutdown
+[11:38:03] [127.0.0.1][de0022d4][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[11:38:04] [127.0.0.1][ab95ddec][ExtensionHostConnection] <21988> Extension Host Process exited with code: 0, signal: null.
+Last EH closed, waiting before shutting down
+[11:38:04] Last EH closed, waiting before shutting down
+Last EH closed, shutting down
+[11:43:04] Last EH closed, shutting down

@@ -1,0 +1,169 @@
+Looking for git in: git
+Using git 2.1.0 from git
+Opening repository for path='/data/cvip2020' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: Not a git repository (or any of the parent directories): .git\n"
+}
+Opening repository for path='/data/cvip2020' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: Not a git repository (or any of the parent directories): .git\n"
+}
+Opening repository for path='/data/cvip2020/.bash_history' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/data/cvip2020/.viminfo' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/data/cvip2020/.vscode-server' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: Not a git repository (or any of the parent directories): .git\n"
+}
+Opening repository for path='/data/cvip2020/CNAME' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/data/cvip2020/System Volume Information' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: Not a git repository (or any of the parent directories): .git\n"
+}
+Opening repository for path='/data/cvip2020/about.php' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/data/cvip2020/accepted.csv' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/data/cvip2020/accepted.php' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/data/cvip2020/awards.php' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/data/cvip2020/b2papers.csv' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/data/cvip2020/blog-single.html' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/data/cvip2020/blog.html' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/data/cvip2020/bpapers.csv' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/data/cvip2020/cfp.php' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/data/cvip2020/contact.html' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/data/cvip2020/css' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: Not a git repository (or any of the parent directories): .git\n"
+}
+Opening repository for path='/data/cvip2020/data' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: Not a git repository (or any of the parent directories): .git\n"
+}
+Opening repository for path='/data/cvip2020/details.php' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/data/cvip2020/files' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: Not a git repository (or any of the parent directories): .git\n"
+}
+Opening repository for path='/data/cvip2020/fonts' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: Not a git repository (or any of the parent directories): .git\n"
+}
+Opening repository for path='/data/cvip2020/guidelines.php' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/data/cvip2020/iiita.php' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/data/cvip2020/images' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: Not a git repository (or any of the parent directories): .git\n"
+}
+Opening repository for path='/data/cvip2020/index-2.html' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/data/cvip2020/index.php' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/data/cvip2020/js' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: Not a git repository (or any of the parent directories): .git\n"
+}
+Opening repository for path='/data/cvip2020/keynote.json' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/data/cvip2020/layout' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: Not a git repository (or any of the parent directories): .git\n"
+}
+Opening repository for path='/data/cvip2020/local.php' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/data/cvip2020/organizers.php' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/data/cvip2020/organizers_old.html' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/data/cvip2020/phd.php' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/data/cvip2020/register.php' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/data/cvip2020/registered.csv' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/data/cvip2020/registered.php' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/data/cvip2020/reviewer1.csv' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/data/cvip2020/reviewer2.csv' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/data/cvip2020/schedule.html' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/data/cvip2020/sessions.php' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/data/cvip2020/speakers.php' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/data/cvip2020/speakers.php.copy' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/data/cvip2020/sponsors.php' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/data/cvip2020/test' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: Not a git repository (or any of the parent directories): .git\n"
+}
+Opening repository for path='/data/cvip2020/test.php' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/data/cvip2020' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: Not a git repository (or any of the parent directories): .git\n"
+}
+Opening repository for path='/data/cvip2020' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: Not a git repository (or any of the parent directories): .git\n"
+}
+Opening repository for path='/data/cvip2020' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: Not a git repository (or any of the parent directories): .git\n"
+}
+Opening repository for path='/data/cvip2020' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: Not a git repository (or any of the parent directories): .git\n"
+}
+Opening repository for path='/data/cvip2020' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: Not a git repository (or any of the parent directories): .git\n"
+}
+Opening repository for path='/data/cvip2020' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: Not a git repository (or any of the parent directories): .git\n"
+}
+Opening repository for path='/data/cvip2020/layout' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: Not a git repository (or any of the parent directories): .git\n"
+}

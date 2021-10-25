@@ -1,0 +1,16 @@
+[2020-09-29 11:23:44.254] [exthost] [info] extension host started
+[2020-09-29 11:23:44.353] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2020-09-29 11:23:44.354] [exthost] [info] ExtensionService#loadCommonJSModule file:///data/cvip2020/.vscode-server/bin/e5e9e69aed6e1984f7499b7af85b3d05f9a6883a/extensions/debug-auto-launch/dist/extension
+[2020-09-29 11:23:44.364] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"*"}
+[2020-09-29 11:23:44.364] [exthost] [info] ExtensionService#loadCommonJSModule file:///data/cvip2020/.vscode-server/bin/e5e9e69aed6e1984f7499b7af85b3d05f9a6883a/extensions/emmet/dist/node/emmetNodeMain
+[2020-09-29 11:23:44.397] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2020-09-29 11:23:44.397] [exthost] [info] ExtensionService#loadCommonJSModule file:///data/cvip2020/.vscode-server/bin/e5e9e69aed6e1984f7499b7af85b3d05f9a6883a/extensions/git/dist/main
+[2020-09-29 11:23:44.465] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"*"}
+[2020-09-29 11:23:44.465] [exthost] [info] ExtensionService#loadCommonJSModule file:///data/cvip2020/.vscode-server/bin/e5e9e69aed6e1984f7499b7af85b3d05f9a6883a/extensions/merge-conflict/dist/mergeConflictMain
+[2020-09-29 11:23:44.470] [exthost] [info] ExtensionService#_doActivateExtension vscode.search-result {"startup":true,"extensionId":{"value":"vscode.search-result","_lower":"vscode.search-result"},"activationEvent":"*"}
+[2020-09-29 11:23:44.470] [exthost] [info] ExtensionService#loadCommonJSModule file:///data/cvip2020/.vscode-server/bin/e5e9e69aed6e1984f7499b7af85b3d05f9a6883a/extensions/search-result/dist/extension.js
+[2020-09-29 11:23:44.610] [exthost] [info] ExtensionService#_doActivateExtension vscode.github {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2020-09-29 11:23:44.611] [exthost] [info] ExtensionService#loadCommonJSModule file:///data/cvip2020/.vscode-server/bin/e5e9e69aed6e1984f7499b7af85b3d05f9a6883a/extensions/github/dist/extension.js
+[2020-09-29 11:23:44.662] [exthost] [info] eager extensions activated
+[2020-09-29 11:29:21.532] [exthost] [info] ExtensionService#_doActivateExtension vscode.php-language-features {"startup":false,"extensionId":{"value":"vscode.php-language-features","_lower":"vscode.php-language-features"},"activationEvent":"onLanguage:php"}
+[2020-09-29 11:29:21.532] [exthost] [info] ExtensionService#loadCommonJSModule file:///data/cvip2020/.vscode-server/bin/e5e9e69aed6e1984f7499b7af85b3d05f9a6883a/extensions/php-language-features/dist/phpMain

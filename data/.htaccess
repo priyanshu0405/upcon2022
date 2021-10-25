@@ -1,0 +1,4 @@
+RewriteEngine on
+RewriteCond %{HTTP_REFERER} !^$
+RewriteCond %{HTTP_REFERER} !^http(s)?://(www\.)?iiita.ac.in [NC]
+RewriteRule \.(zip)$ - [NC,F,L]
