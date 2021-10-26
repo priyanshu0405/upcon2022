@@ -6,7 +6,7 @@
 <meta http-equiv="content-type" content="text/html;charset=UTF-8" /><!-- /Added by HTTrack -->
 
 <head>
-    <title>CVIP 2020</title>
+    <title>UPCON 2022</title>
     <?php include("layout/meta.php");?>
 </head>
 
