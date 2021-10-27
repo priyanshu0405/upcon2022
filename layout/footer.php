@@ -5,8 +5,8 @@
     <div class="row mb-5">
       <div class="col-md">
         <div class="ftco-footer-widget mb-4">
-          <h2 class="ftco-heading-2">CVIP 2020</h2>
-          <p class="text-left">CVIP is a premier conference focused on image/video processing and computer vision. The conference will feature world renowned speakers, workshops and host multiple dataset challenges and demonstrations.</p>
+          <h2 class="ftco-heading-2">UPCON 2022</h2>
+          <p class="text-left"UPCON is a top level International Conference covering broad topics in the areas of Electrical, Computer and Electronics Engineering.></p>
           <ul class="ftco-footer-social list-unstyled float-md-left float-lft mt-5"></ul>
         </div>
       </div>
@@ -39,7 +39,7 @@
           <div class="block-23 mb-3">
             <ul>
               <li><span class="icon icon-map-marker"></span><span class="text">IIIT Allahabad, Jhalwa, Prayagraj, Uttar Pradesh</span></li>
-              <li><a href="#"><span class="icon icon-envelope"></span><span class="text"><span class="__cf_email__" data-cfemail="8fe6e1e9e0cff6e0fafdebe0e2eee6e1a1ece0e2">cvip2020@iiita.ac.in</span></span></a></li>
+              <li><a href="#"><span class="icon icon-envelope"></span><span class="text"><span class="__cf_email__" data-cfemail="8fe6e1e9e0cff6e0fafdebe0e2eee6e1a1ece0e2">upcon2022@iiita.ac.in</span></span></a></li>
             </ul>
           </div>
         </div>
