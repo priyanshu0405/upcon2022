@@ -11,7 +11,7 @@
                 <p class="mb-1"
                     style="color:white;display: inline-block;height: 32px;padding-left: 22px;padding-right: 24px;background: #7f66ff;align-items: center;justify-content: flex-start"
                     data-scrollax="properties: { translateY: '30%', opacity: 1.6 }"><span
-                        class="icon-calendar mr-2 "></span>4-6 December 2020 - IIIT Allahabad</p>
+                        class="icon-calendar mr-2 "></span>2-4 December 2022 - IIIT Allahabad</p>
                 <!-- <div id="timer" class="d-flex col-4">
                     <div class="time" id="days"></div>
                     <div class="time pl-3" id="hours"></div>
@@ -19,9 +19,6 @@
                     <div class="time pl-3" id="seconds"></div>
                 </div> -->
 
-
-
-                <span class="blinker corona-alert">**The date is shifted due to coronavirus pandemic.</span>
 
             </div>
 
@@ -31,20 +28,6 @@
                 <div class="col-6">
                     <h1 style="color: white;">Sponsored/Endorsed by - </h1>
                     <img width="60%" src="images/cvip/IAPR.svg" alt="">
-                </div>
-                <div class="col-6">
-                    <div class="row">
-                        <div class="col-4"><img width="100%" src="images/sn.jpg" alt=""></div>
-                        <div class="col-8">
-                            <h1 style="color: yellow;">Conference articles are open for access from April 12,2021 to May 12,2021:
-                            <li style="color: yellow;"><a style="color: yellow;" href="https://link.springer.com/book/10.1007/978-981-16-1086-8">Part One</a> <sup style=" border-radius: 5px; padding: 2px; background-color: red; color: yellow;">new</sup></li>
-                            <li style="color: yellow;"><a style="color: yellow;" href="https://link.springer.com/book/10.1007/978-981-16-1092-9">Part Two</a> <sup style=" border-radius: 5px; padding: 2px; background-color: red; color: yellow;">new</sup></li>
-                            <li style="color: yellow;"><a style="color: yellow;" href="https://link.springer.com/book/10.1007/978-981-16-1103-2">Part Three</a> <sup style=" border-radius: 5px; padding: 2px; background-color: red; color: yellow;">new</sup></li>   
-                             <!-- <a
-                                    href="cfp.php#special-issue">Know more?</a> -->
-                                    </h1>
-                        </div>
-                    </div>
                 </div>
 
             </div>

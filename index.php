@@ -24,15 +24,9 @@
                 <div class="col-md-12 wrap-about py-md-5 ftco-animate">
                     <div class="heading-section mb-5 pl-md-5">
                         <div class="pr-md-5 mr-md-5">
-                            <h2 class="mb-4 text-center">About CVIP</h2>
+                            <h2 class="mb-4 text-center">About IEEE UPCON</h2>
                         </div>
-                        <p style="font-size:20;font-weight: normal;text-align:justify">CVIP is a premier conference
-                            focused on image/video processing and computer vision. The conference will feature world
-                            renowned speakers, workshops and host multiple dataset challenges and demonstrations. The
-                            proceedings of the conference will be published by Springer, Communications in Computer and
-                            Information Science series (CCIS). Conference Proceedings will be abstracted and indexed by
-                            - <mark>DBLP</mark>,<mark>Google Scholar</mark>, <mark>EI-Compendex</mark>,
-                            <mark>Mathematical Reviews</mark>, <mark>SCImago</mark> and <mark>Scopus</mark>.
+                        <p style="font-size:20;font-weight: normal;text-align:justify">The 9th "IEEE Uttar Pradesh Section International Conference on Electrical, Electronics and Computer Engineering (UPCON-2021)" is top level International Conference covering broad topics in the areas of Electrical, Computer and Electronics Engineering, will be jointly organized this year by BTKIT, Dwarhat, Uttrakhand India and Tula’s Institute, Dehradun, Uttrakhand India. UPCON conference is organized annually at various locations in Uttar Pradesh (UP). Prior to this, first Seven series of UPCON conferences were organized at GCET, Greater Noida (2014), Indian Institute of Information Technology Allahabad (IIITA), Allahabad (2015), Indian Institute of Technology (IIT-BHU) Varanasi (2016) and GLA University (GLAU) Mathura (2017), MMMUT Gorakhpur (2018), AMU Aligarh (2019), MNNIT Allahabad (2020) and Tula’s Institute Dehradun (2021) respectively. This conference will provide an excellent platform to the researchers to present their research work and is known as the UP-section's conference. The conference is technically and financially sponsored by IEEE UP Section. There are multiple tracks in the conference covering almost all areas of Electrical, Computer & Electronics Engineering. Uttar Pradesh Section is located in Region 10, and is represented at the India Council. The Section was formed on 11 May 1992. Prior to that, Uttar Pradesh had been a sub-section under the Delhi Section since 28 December 1970. IEEE UP Section interfaces with the industries and academia through various technical and humanitarian activities. This Section organizes various activities throughout the year. 
 
                         </p>
                         <br />
