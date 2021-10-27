@@ -79,35 +79,35 @@
                                 </tr>
                                 <tr>
                                     <td class="text-left">Call for Paper Opens on</td>
-                                    <td><s>01 January, 2022</s></td>
+                                    <td>01 January, 2022</td>
                                 </tr>
                                 <tr>
                                     <td class="text-left">Rolling Acceptance (Round 1)</td>
-                                    <td><s>31 March, 2022</s></td>
+                                    <td>31 March, 2022</td>
                                 </tr>
                                 <tr>
                                     <td class="text-left">Rolling Acceptance (Round 2)</td>
-                                    <td><s>30 June, 2022</s></td>
+                                    <td>30 June, 2022</td>
                                 </tr>
                                 <tr>
                                     <td class="text-left">Rolling Acceptance (Round 3)</td>
-                                    <td><s>31 September, 2022</s></td>
+                                    <td>31 September, 2022</td>
                                 </tr>
                                 <tr>
                                     <td class="text-left">Final Submission Deadline</td>
-                                    <td><s>31 July, 2020</s> <s>31 July, 2022</s></td>
+                                    <td>31 July, 2020</td>
                                 </tr>
                                 <tr>
                                     <td class="text-left">Early Bird Registration Deadline*</td>
-                                    <td><s>10 November, 2022</s></td>
+                                    <td>10 November, 2022</td>
                                 </tr>
                                 <tr>
                                     <td class="text-left">Camera Ready Submission</td>
-                                    <td><s>10 November, 2022</s></td>
+                                    <td>10 November, 2022</td>
                                 </tr>
                                 <tr>
                                     <td class="text-left">Late Registration (Extra fee)</td>
-                                    <td><s>20 November, 2022</s></td>
+                                    <td>20 November, 2022</td>
                                 </tr>
                                 <tr>
                                     <td class="text-left">* - Round 1 and 2 accepted papers may be asked to pay regestration fee early</td>
