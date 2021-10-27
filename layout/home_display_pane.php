@@ -27,9 +27,12 @@
                 data-scrollax=" properties: { translateY: '70%' }">
                 <div class="col-6">
                     <h1 style="color: white;">Sponsored/Endorsed by - </h1>
-                    <img width="60%" src="images/cvip/IAPR.svg" alt="">
+                    <img width="60%" src="images/cvip/upcon.png" alt="">
                 </div>
-
+                <div class="col-6">
+                    <h1 style="color: white;"></h1>
+                    <img width="60%" src="images/cvip/ieeeup.png" alt="">
+                </div>
             </div>
             <span class="lead bg-dark col-12 pl-2"><a style="color: yellow;" href="./awards.php" target="_blank">
                     Awards <svg width="1em" height="1em" viewBox="0 0 16 16" class="bi bi-award-fill"

@@ -58,14 +58,6 @@
                             </div>
                         </div>
                         <br />
-                        <p style="font-size:20;font-weight: normal;text-align:justify">
-                            Previous editions of CVIP were held at MNIT Jaipur
-                            (CVIP2019), IIIT Jabalpur (CVIP2018), and IIT Roorkee (CVIP2017 and CVIP2016).
-                        </p>
-                        <p style="font-size:20;font-weight: normal;text-align:justify">CVIP acts as a major forum for
-                            presentation of technological progress and research outcomes in the area of Image Processing
-                            and Computer Vision serving as a platform for exchanges between academia and industry.</p>
-                        <br />
                         <!-- <div align="center">
     <img height="200px" src="images/cvip/track.png"/>
   </div><br/><br/> -->
@@ -123,7 +115,7 @@
                             For Templates and Instructions : <a href="cfp.php">Click here</a><br>
                             For any queries contact : <mark>cvip2020@iiita.ac.in</mark><br>
                             <mark>Note: Virtual Presentation will be allowed due to COVID-19 Pandemic. High quality
-                                Research papers, that are accepted, registered and presented in CVIP2020 will be invited
+                                Research papers, that are accepted, registered and presented in UPCON2022 will be invited
                                 to submit their extended versions to the <u>Journal in Springer Nature Computer
                                     Science.</u></mark><br>
                         </p>
