@@ -240,12 +240,12 @@
                 </div>
                 <div class="col-md-3">
                     <div class="blog-entry text-center">
-                        <img width="60%" src="images/cvip/sponsors/isro.png">
+                        <img width="60%" src="images/cvip/sponsors/IEEE-RAS.png">
                     </div>
                 </div>
                 <div class="col-md-3">
                     <div class="blog-entry text-center">
-                        <img width="75%" src="images/cvip/sponsors/mathworks.png">
+                        <img width="75%" src="images/cvip/sponsors/IEEE-CS.png">
                     </div>
                 </div>
             </div>
