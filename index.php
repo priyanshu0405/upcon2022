@@ -32,17 +32,8 @@
                         <br />
                         <div class="row justify-content-center text-center"
                             style="border: 1px solid rgba(0,0,0,0.1); border-radius: 5px;padding: 5px;">
-                            <div class="col-3 text-center" style="padding: 5px 0; margin: auto; text-align: center;">
-                                <img width="80%" src="images/cvip/IAPR.svg" />
-                            </div>
-                            <div class="col-3 text-center" style="padding: 5px 0; margin: auto; text-align: center;">
-                                <img width="100%" src="images/cvip/indices/dblp.png" />
-                            </div>
-                            <div class="col-3  text-center" style="padding: 5px 0; margin: auto; text-align: center;">
-                                <img width="100%" src="images/cvip/springer.png" />
-                            </div>
-                            <div class="col-3 text-center" style="padding: 5px 0; margin: auto; text-align: center;">
-                                <img width="50%" src="images/cvip/2020.png" />
+                            <div class="col-3 text-center " style="padding: 5px 0; margin: auto; text-align: center;">
+                                <img width="100%" src="images/cvip/ieeeup.png" />
                             </div>
                             <div class="col-3 text-center " style="padding: 5px 0; margin: auto; text-align: center;">
                                 <img width="100%" src="images/cvip/indices/google-scholar.png" />
@@ -109,11 +100,11 @@
 
                         <hr>
                         <p style="font-size:20;font-weight: bold;text-align:justify">
-                            Conference Brochure: <a href="/files/brochure.pdf" target="_blank">Click here</a><br />
-                            For Paper Submission : <a href="https://cmt3.research.microsoft.com/CVIP2020">Click
+                            Conference Brochure: <a href="" target="_blank">Click here</a><br />
+                            For Paper Submission : <a href="">Click
                                 here</a><br />
                             For Templates and Instructions : <a href="cfp.php">Click here</a><br>
-                            For any queries contact : <mark>cvip2020@iiita.ac.in</mark><br>
+                            For any queries contact : <mark>upcon2022@iiita.ac.in</mark><br>
                             <mark>Note: Virtual Presentation will be allowed due to COVID-19 Pandemic. High quality
                                 Research papers, that are accepted, registered and presented in UPCON2022 will be invited
                                 to submit their extended versions to the <u>Journal in Springer Nature Computer
@@ -240,7 +231,7 @@
                 </div>
                 <div class="col-md-3">
                     <div class="blog-entry text-center">
-                        <img width="60%" src="images/cvip/sponsors/IEEE_RAS.png">
+                        <img width="90%" src="images/cvip/sponsors/IEEE_RAS.png">
                     </div>
                 </div>
                 <div class="col-md-3">

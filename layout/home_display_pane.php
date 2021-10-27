@@ -31,20 +31,22 @@
                 </div>
                 <div class="col-6">
                     <h1 style="color: white;"></h1>
-                    <img width="60%" src="images/cvip/ieeeup.png" alt="">
+                    <br>
+                    <br>
+                    <img width="100%" src="images/cvip/ieeeup.png" alt="">
                 </div>
             </div>
-            <span class="lead bg-dark col-12 pl-2"><a style="color: yellow;" href="./awards.php" target="_blank">
+            <span class="lead bg-dark col-12 pl-2"><a style="color: yellow;" href="" target="_blank">
                     Awards <svg width="1em" height="1em" viewBox="0 0 16 16" class="bi bi-award-fill"
                         fill="currentColor" xmlns="http://www.w3.org/2000/svg">
                         <path
                             d="M8 0l1.669.864 1.858.282.842 1.68 1.337 1.32L13.4 6l.306 1.854-1.337 1.32-.842 1.68-1.858.282L8 12l-1.669-.864-1.858-.282-.842-1.68-1.337-1.32L2.6 6l-.306-1.854 1.337-1.32.842-1.68L6.331.864 8 0z" />
                         <path d="M4 11.794V16l4-1 4 1v-4.206l-2.018.306L8 13.126 6.018 12.1 4 11.794z" />
-                    </svg></a> | <a style="color: yellow;" href="./accepted.php" target="_blank">
+                    </svg></a> | <a style="color: yellow;" href="" target="_blank">
                     Accepted
-                    papers</a> | <a style="color: yellow;" href="./registered.php" target="_blank">Registered
-                    papers</a> | <a style="color: yellow;" href="files/pschedule.pdf" target="_blank">Program
-                    Schedule</a> | <a style="color: yellow;" href="files/paperschedule.pdf" target="_blank">Paper
+                    papers</a> | <a style="color: yellow;" href="" target="_blank">Registered
+                    papers</a> | <a style="color: yellow;" href="" target="_blank">Program
+                    Schedule</a> | <a style="color: yellow;" href="" target="_blank">Paper
                     Presentation
                     Schedule</a>
             </span>
