@@ -42,6 +42,9 @@
                                 <img width="30%" src="images/cvip/indices/eicom.png" />
                             </div>
                             <div class="col-3 text-center" style="padding: 5px 0; margin: auto; text-align: center;">
+                                <img style="padding-right: 10px;" height="50px" src="images/cvip/indices/scimago.png" />
+                            </div>
+                            <div class="col-3 text-center" style="padding: 5px 0; margin: auto; text-align: center;">
                                 <img style="padding-left: 10px;" height="50px" src="images/cvip/indices/scopus.jpg" />
                             </div>
                         </div>
