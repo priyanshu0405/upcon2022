@@ -33,6 +33,7 @@
                     <h1 style="color: white;"></h1>
                     <br>
                     <br>
+                    <br>
                     <img width="100%" src="images/cvip/ieeeup.png" alt="">
                 </div>
             </div>

@@ -33,16 +33,13 @@
                         <div class="row justify-content-center text-center"
                             style="border: 1px solid rgba(0,0,0,0.1); border-radius: 5px;padding: 5px;">
                             <div class="col-3 text-center " style="padding: 5px 0; margin: auto; text-align: center;">
-                                <img width="100%" src="images/cvip/ieeeup.png" />
+                                <img width="60%" src="images/cvip/ieeeup.png" />
                             </div>
                             <div class="col-3 text-center " style="padding: 5px 0; margin: auto; text-align: center;">
                                 <img width="100%" src="images/cvip/indices/google-scholar.png" />
                             </div>
                             <div class="col-3 text-center " style="padding: 5px 0; margin: auto; text-align: center;">
                                 <img width="30%" src="images/cvip/indices/eicom.png" />
-                            </div>
-                            <div class="col-3 text-center" style="padding: 5px 0; margin: auto; text-align: center;">
-                                <img style="padding-right: 10px;" height="50px" src="images/cvip/indices/scimago.png" />
                             </div>
                             <div class="col-3 text-center" style="padding: 5px 0; margin: auto; text-align: center;">
                                 <img style="padding-left: 10px;" height="50px" src="images/cvip/indices/scopus.jpg" />
