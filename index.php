@@ -149,30 +149,25 @@
                         <div style="font-weight: bold;" class="row justify-content-left mb-12">
                             <div class="col-md-6">
                                 <ul>
-                                    <li>Biometrics, Forensics, Content protection</li>
-                                    <li>Face, Iris, Emotion, Sign Language and Gesture Recognition</li>
-                                    <li>Image/video processing for Autonomous Vehicles</li>
-                                    <li>3D image/video processing</li>
-                                    <li>Image Enhancement/Super Resolution / Restoration</li>
-                                    <li>Action and Event Detection/Recognition</li>
-                                    <li>Motion and Tracking</li>
-                                    <li>Medical Image and Video Analysis</li>
-                                    <li>Image/ Video Retrieval</li>
-                                    <li>Vision based Human GAIT Analysis</li>
+                                    <li>AI, Robotics and Automation</li>
+                                    <li>Signal & Image Processing</li>
+                                    <li>Computational Intelligence</li>
+                                    <li>Computer Vision and Machine Learning</li>
+                                    <li>Neural Networks and Learning Systems</li>
+                                    <li>Control Theories & Applications</li>
+                                    <li>Electric Power & Energy systems</li>
+                                    <li>Power Electronics & its Applications</li>
                                 </ul>
                             </div>
                             <div class="col-md-6">
                                 <ul>
-                                    <li>Document and Synthetic Visual Processing</li>
-                                    <li>Remote sensing, Multispectral/Hyperspectral image Processing</li>
-                                    <li>Datasets and Evaluation</li>
-                                    <li>Segmentation and Shape Representation</li>
-                                    <li>Image/Video Scene Understanding</li>
-                                    <li>Image/Video Security</li>
-                                    <li>Human Computer Interaction</li>
-                                    <li>Visual Sensor Hardware</li>
-                                    <li>Document Image Analysis</li>
-                                    <li>Compressed Image/Video Analytics</li>
+                                    <li>Industrial Applications</li>
+                                    <li>Computer Networks</li>
+                                    <li>Communication & Networking</li>
+                                    <li>Information & Communication Technology</li>
+                                    <li>VLSI & System Design</li>
+                                    <li>Microwave, Antennas, & R.F</li>
+                                    <li>Humanitarian Technology</li>
                                 </ul>
                             </div>
                         </div>
