@@ -1,7 +1,7 @@
 <nav class="main_nav navbar navbar-expand-lg navbar-dark ftco_navbar bg-dark ftco-navbar-light" id="ftco-navbar">
     <div class="container">
         <!-- <a class="navbar-brand" style="color:black" href="index.html">CVIP 2020.</a> -->
-        <a href="/"><img width="100%" src="images/cvip/logo-red.png" /></a>
+        <a href="/"><img width="70%" src="images/cvip/logo-red.png" /></a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#ftco-nav"
             aria-controls="ftco-nav" aria-expanded="false" aria-label="Toggle navigation">
             <span class="oi oi-menu"></span> Menu

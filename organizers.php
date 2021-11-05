@@ -76,26 +76,28 @@ function reviewers(){
 
             </div>
 
-            <div class="row ftco-animate">
+            <div class="row justify-content-center ftco-animate">
                 <h1 class="col-12 text-center border-bottom">Patron</h1>
                 <hr>
-                <div class="card" style="width: 15rem; margin: auto;">
+                <div class="card" style="width: 15rem; margin: 5px;">
                     <img class="card-img-top" src="images/cvip/committee/naghabushan.jpg" alt="">
                     <div class="card-body">
                         <h5 class="card-title">Prof. P. Nagabhushan</h5>
-                        <p class="card-text">Director, IIIT Allahabad</p>
+                        <p class="card-text">Director, IIIT Allahabadd</p>
                     </div>
                 </div>
-                <div class="card" style="width: 15rem; margin: auto;">
+
+                <div class="card" style="width: 15rem; margin: 5px;">
                     <img class="card-img-top" src="images/cvip/committee/sriniwas.jpg" alt="">
                     <div class="card-body">
                         <h5 class="card-title">Prof. Sri Niwas Singh</h5>
                         <p class="card-text">IIT Kanpur</p>
                     </div>
                 </div>
+
             </div>
 
-            <div class="row ftco-animate">
+            <div class="row justify-content-center ftco-animate">
                 <h1 class="col-12 text-center border-bottom">General Chair</h1>
                 <hr>
                 <div class="card" style="width: 15rem; margin: 5px;">
