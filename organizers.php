@@ -80,10 +80,17 @@ function reviewers(){
                 <h1 class="col-12 text-center border-bottom">Patron</h1>
                 <hr>
                 <div class="card" style="width: 15rem; margin: auto;">
-                    <img class="card-img-top" src="images/cvip/committee/bidyut.jpg" alt="">
+                    <img class="card-img-top" src="images/cvip/committee/naghabushan.jpg" alt="">
                     <div class="card-body">
-                        <h5 class="card-title">Prof. Bidyut Baran Chaudhuri</h5>
-                        <p class="card-text">Indian Statistical Institute</p>
+                        <h5 class="card-title">Prof. P. Nagabhushan</h5>
+                        <p class="card-text">Director, IIIT Allahabad</p>
+                    </div>
+                </div>
+                <div class="card" style="width: 15rem; margin: auto;">
+                    <img class="card-img-top" src="images/cvip/committee/sriniwas.jpg" alt="">
+                    <div class="card-body">
+                        <h5 class="card-title">Prof. Sri Niwas Singh</h5>
+                        <p class="card-text">IIT Kanpur</p>
                     </div>
                 </div>
             </div>
@@ -91,11 +98,18 @@ function reviewers(){
             <div class="row ftco-animate">
                 <h1 class="col-12 text-center border-bottom">General Chair</h1>
                 <hr>
-                <div class="card" style="width: 15rem; margin: auto;">
-                    <img class="card-img-top" src="images/cvip/committee/naghabushan.jpg" alt="">
+                <div class="card" style="width: 15rem; margin: 5px;">
+                    <img class="card-img-top" src="images/cvip/committee/shekhar" alt="">
                     <div class="card-body">
-                        <h5 class="card-title">Prof. P. Nagabhushan</h5>
-                        <p class="card-text">Director, IIIT Allahabad</p>
+                        <h5 class="card-title">Prof. Shekhar Verma</h5>
+                        <p class="card-text">IIIT Allahabad</p>
+                    </div>
+                </div>
+                <div class="card" style="width: 15rem; margin: 5px;">
+                    <img class="card-img-top" src="images/cvip/committee/satish.png" alt="">
+                    <div class="card-body">
+                        <h5 class="card-title">Dr. Satish K. Singh</h5>
+                        <p class="card-text">IIIT Allahabad</p>
                     </div>
                 </div>
             </div>
@@ -113,20 +127,20 @@ function reviewers(){
                 </div>
 
                 <div class="card" style="width: 15rem; margin: 5px;">
-                    <img class="card-img-top" src="images/cvip/committee/bala.jpeg" alt="">
+                    <img class="card-img-top" src="images/cvip/committee/rajeev.png" alt="">
                     <div class="card-body">
-                        <h5 class="card-title">Prof. Balasubramanian Raman</h5>
-                        <p class="card-text">IIT Roorkee</p>
+                        <h5 class="card-title">Prof. Rajeev Srivastava</h5>
+                        <p class="card-text">IIT BHU</p>
                     </div>
                 </div>
 
             </div>
 
             <?php 
-            $conf_chairs = array(["Dr. Satish K. Singh","satish.png","IIIT Allahabad"],["Dr. Vrijendra Singh","vrijendra.jpg","IIIT Allahabad"],["Dr. Sanjeev Kumar","sanjeev.jpg","IIT Roorkee"],["Dr. Partha Pratim Roy","partha.jpg","IIT Roorkee"]);
-            $conf_convrs = array(["Dr. Mohammed Javed","javed.jpg","IIIT Allahabad"],["Dr. Pritee Khanna","priteekhanna.jpg","IIIT DMJ"],["Dr. K.P Singh","kp.jpg","IIIT Allahabad"],["Dr. Shiv Ram Dubey", "srd.jpg", "IIIT Sri City"]);
+            $conf_chairs = array(["Dr. Mohammed Javed","javed.jpg","IIIT Allahabad"],["Dr. Navjot Singh","navjot.jpg","IIIT Allahabad"]);
+            $conf_convrs = array(["Dr. Muneendra Ojha ","mojha.jpg","IIIT Allahabad"]);
 
-            $local_chairs = array(["Prof. Shirshu Varma","shirshu.jpg","IIIT Allahabad"]);
+            $local_chairs = array();
             $inter_advisory_com = array(
                                     ["Prof. K. C. Gowda","gowda.png","Former VC, Kuvempu University"],
                                     ["Prof. Paula Brito","paula.jpg"," University of Porto, Portugal"],
@@ -257,9 +271,7 @@ function reviewers(){
 
             <!-- Publicity Chair -->
             <?php 
-        $pub_chair = array(["Dr. Subrahmanyam Murala","murala.jpg","IIT Ropar"],
-                    ["Dr. Shiv Ram Dubey","srd.jpg","IIIT Sri city"],
-                    ["Dr. Ashwini K","ashwini.jpg","GAT Banglore"]
+        $pub_chair = array(
                     );
 
         ?>
@@ -273,7 +285,7 @@ function reviewers(){
 
             <!-- Sponsorship Chair -->
             <?php 
-            $spons = array(["Dr. Partha Pratim Roy","partha.jpg","IIT Roorkee"]);
+            $spons = array();
         ?>
 
             <div class="row justify-content-center ftco-animate">
@@ -285,7 +297,7 @@ function reviewers(){
 
             <!-- PhD Colloquium Chair -->
             <?php 
-            $phd = array(["Prof. Anand Singh Jalal","anandsingh.jpg","GLA University, Mathura"],["Dr Triloki Pant","tpant.jpg","IIIT Allahabad"],["Dr. Soumendu Chakraborty","somendu.jpg","IIIT Lucknow"]);
+            $phd = array();
         ?>
 
             <div class="row justify-content-center ftco-animate">
@@ -297,7 +309,7 @@ function reviewers(){
 
             <!-- Technical Programme Chair -->
             <?php 
-            $tech = array(["Dr. Sonali Agarwal","sonali.jpg","IIIT Allahabad"],["Dr. Subrahmanyam Murala","murala.jpg","IIT Ropar"], ["Dr. Neeru Narang","neeru.png", "AI Research Scientist, Accenture, CA"]);
+            $tech = array(["Dr. Vrijendra Singh","vrijsingh.jpg","IIIT Allahabad"]);
 
         ?>
 
@@ -312,7 +324,65 @@ function reviewers(){
                     <?php reviewers();?>
                 </ol>
             </div>
+            
+            <div class="row justify-content-center ftco-animate">
+                <h1 class="col-12 text-center border-bottom">Workshop Chair</h1>
+                <hr>
+                <div class="card" style="width: 15rem; margin: 5px;">
+                    <img class="card-img-top" src="images/cvip/committee/anshuanand.jpg" alt="">
+                    <div class="card-body">
+                        <h5 class="card-title">Dr. Anshu S. Anand </h5>
+                        <p class="card-text">IIIT Allahabad</p>
+                    </div>
+                </div>
 
+            </div>
+
+            <div class="row justify-content-center ftco-animate">
+                <h1 class="col-12 text-center border-bottom">Hospitality Chair</h1>
+                <hr>
+                <div class="card" style="width: 15rem; margin: 5px;">
+                    <img class="card-img-top" src="" alt="">
+                    <div class="card-body">
+                        <h5 class="card-title"> </h5>
+                        <p class="card-text"></p>
+                    </div>
+                </div>
+
+            </div>
+
+            <div class="row justify-content-center ftco-animate">
+                <h1 class="col-12 text-center border-bottom">Web Management Committee</h1>
+                <hr>
+                <div class="card" style="width: 15rem; margin: 5px;">
+                    <img class="card-img-top" src="" alt="">
+                    <div class="card-body">
+                        <h5 class="card-title"> </h5>
+                        <p class="card-text"></p>
+                    </div>
+                </div>
+                <div class="card" style="width: 15rem; margin: 5px;">
+                    <img class="card-img-top" src="" alt="">
+                    <div class="card-body">
+                        <h5 class="card-title">Priyanshu Jain</h5>
+                        <p class="card-text">IIIT Allahabad</p>
+                    </div>
+                </div>
+
+            </div>
+
+            <div class="row justify-content-center ftco-animate">
+                <h1 class="col-12 text-center border-bottom">Award Committee</h1>
+                <hr>
+                <div class="card" style="width: 15rem; margin: 5px;">
+                    <img class="card-img-top" src="" alt="">
+                    <div class="card-body">
+                        <h5 class="card-title"> </h5>
+                        <p class="card-text"></p>
+                    </div>
+                </div>
+
+            </div>
 
 
         </div>
