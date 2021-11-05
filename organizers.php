@@ -121,18 +121,26 @@ function reviewers(){
                 <h1 class="col-12 text-center border-bottom">General Co-Chair</h1>
                 <hr>
                 <div class="card" style="width: 15rem; margin: 5px;">
-                    <img class="card-img-top" src="images/cvip/committee/shekhar" alt="">
+                    <img class="card-img-top" src="images/cvip/committee/pavan.jpg" alt="">
                     <div class="card-body">
-                        <h5 class="card-title">Prof. Shekhar Verma</h5>
+                        <h5 class="card-title">Prof. Pavan Chakraborty </h5>
                         <p class="card-text">IIIT Allahabad</p>
                     </div>
                 </div>
 
                 <div class="card" style="width: 15rem; margin: 5px;">
-                    <img class="card-img-top" src="images/cvip/committee/rajeev.png" alt="">
+                    <img class="card-img-top" src="images/cvip/committee/rajeevKS.jpg" alt="">
                     <div class="card-body">
-                        <h5 class="card-title">Prof. Rajeev Srivastava</h5>
+                        <h5 class="card-title">Dr. Rajeev Kumar Singh</h5>
                         <p class="card-text">IIT BHU</p>
+                    </div>
+                </div>
+
+                <div class="card" style="width: 15rem; margin: 5px;">
+                    <img class="card-img-top" src="images/cvip/committee/rajat.jpeg" alt="">
+                    <div class="card-body">
+                        <h5 class="card-title">Dr. Rajat Kumar Singh</h5>
+                        <p class="card-text">IIIT Allahabad</p>
                     </div>
                 </div>
 
@@ -215,7 +223,7 @@ function reviewers(){
         ?>
 
             <div class="row justify-content-center ftco-animate">
-                <h1 class="col-12 text-center border-bottom">Conference Chairs</h1>
+                <h1 class="col-12 text-center border-bottom">Conference Chairs / Secretary</h1>
                 <hr>
                 <?php display_cards($conf_chairs);?>
             </div>
@@ -273,7 +281,8 @@ function reviewers(){
 
             <!-- Publicity Chair -->
             <?php 
-        $pub_chair = array(
+        $pub_chair = array( ["Dr. Shiv Ram Dubey ","shiv.jpg","IIIT Allahabad"],
+        ["Dr. Kokila Jagadeesh ","kokila.jpg","IIIT Allahabad"]
                     );
 
         ?>
@@ -311,7 +320,7 @@ function reviewers(){
 
             <!-- Technical Programme Chair -->
             <?php 
-            $tech = array(["Dr. Vrijendra Singh","vrijsingh.jpg","IIIT Allahabad"]);
+            $tech = array(["Dr. Vrijendra Singh (Computers)","vrijsingh.jpg","IIIT Allahabad"],["Dr. Ashish Kumar Maurya (Electrical)","ashish.jpg","MNNIT Allahabad"]);
 
         ?>
 

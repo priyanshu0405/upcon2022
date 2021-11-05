@@ -46,7 +46,7 @@
                     </ul>
                 </li>
                 <!-- <li class="nav-item"><a href="contact.html" class="nav-link">Registration</a></li> -->
-                <li class="nav-item cta mr-md-2"><a href="register.php" class="nav-link">Register</a></li>
+                <li class="nav-item cta mr-md-2"><a href="" class="nav-link">Register</a></li>
             </ul>
         </div>
     </div>
