@@ -1,7 +1,7 @@
 <nav class="main_nav navbar navbar-expand-lg navbar-dark ftco_navbar bg-dark ftco-navbar-light" id="ftco-navbar">
     <div class="container">
         <!-- <a class="navbar-brand" style="color:black" href="index.html">CVIP 2020.</a> -->
-        <a href="/"><img width="70%" src="images/cvip/logo-red.png" /></a>
+        <a href="/"><img width="50%" src="images/cvip/logo-red.png" /></a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#ftco-nav"
             aria-controls="ftco-nav" aria-expanded="false" aria-label="Toggle navigation">
             <span class="oi oi-menu"></span> Menu
@@ -27,12 +27,12 @@
 
                 <!-- <li class="nav-item"><a href="blog.html" class="nav-link">Photo Gallery</a></li> -->
                 <li class="has_children nav-item dropdown">
-                    <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#">CVIP History</a>
+                    <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#">UPCON History</a>
                     <ul class="dropdown-menu">
-                        <li style="margin:4%"><a href="http://cvip2019.mnit.ac.in">CVIP 2019</a></li>
-                        <li style="margin:4%"><a href="http://www.iiitdmj.ac.in/CVIP-2018/">CVIP 2018</a></li>
-                        <li style="margin:4%"><a href="https://www.iitr.ac.in/cvip2017/">CVIP 2017</a></li>
-                        <li style="margin:4%"><a href="https://www.iitr.ac.in/cvip2016/">CVIP 2016</a></li>
+                        <li style="margin:4%"><a href="http://upcon2021.in/">UPCON 2021</a></li>
+                        <li style="margin:4%"><a href="http://www.mnnit.ac.in/upcon2020/">UPCON 2020</a></li>
+                        <li style="margin:4%"><a href="https://upcon2019.amu.ac.in/">UPCON 2019</a></li>
+                        <li style="margin:4%"><a href="http://www.mmmut.ac.in/upcon2018/">UPCON 2018</a></li>
                     </ul>
                 </li>
                 <!-- <li class="nav-item"><a href="sponsors.html" class="nav-link">Sponsors</a></li> -->
