@@ -104,8 +104,7 @@
                             For any queries contact : <mark>upcon2022@iiita.ac.in</mark><br>
                             <mark>Note: Virtual Presentation will be allowed due to COVID-19 Pandemic. High quality
                                 Research papers, that are accepted, registered and presented in UPCON2022 will be invited
-                                to submit their extended versions to the <u>Journal in Springer Nature Computer
-                                    Science.</u></mark><br>
+                                to submit their extended versions to the <u>IEEE Journals</u></mark><br>
                         </p>
 
                     </div>
@@ -151,14 +150,14 @@
                                 </ul>
                             </div>
                         </div>
-                        <p style="font-size:20;font-weight: normal;text-align:justify">
+                        <!-- <p style="font-size:20;font-weight: normal;text-align:justify">
                             All the accepted and presented papers will be published by Springer Series on
                             Communications in Computer and Information Science (CCIS). All previous editions of CVIP
                             have
                             been successfully published in Springer Book Series. Successfully presented papers
                             are indexed by ISI Proceedings, EI-Compendex, DBLP, SCOPUS, Google Scholar and
                             Springerlink, etc.
-                        </p>
+                        </p> -->
                     </div>
                 </div>
             </div>
