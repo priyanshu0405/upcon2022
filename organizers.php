@@ -341,7 +341,7 @@ function reviewers(){
 
             <!-- Technical Programme Chair -->
             <?php 
-            $tech = array(["Dr. Vrijendra Singh (Computers)","vrijsingh.jpg","IIIT Allahabad"],["Dr. Ashish Kumar Maurya (Electrical)","ashish.jpg","MNNIT Allahabad"]);
+            $tech = array(["Dr. Vrijendra Singh (Computers)","vrijsingh.jpg","IIIT Allahabad"],["Prof Asheesh Kumar Singh (Electrical)","aksingh.jpg","MNNIT Allahabad"]);
 
         ?>
 
