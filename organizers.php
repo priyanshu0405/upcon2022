@@ -77,7 +77,7 @@ function reviewers(){
             </div>
 
             <div class="row justify-content-center ftco-animate">
-                <h1 class="col-12 text-center border-bottom">Patron</h1>
+                <h1 class="col-12 text-center border-bottom">Cheif Patron</h1>
                 <hr>
                 <div class="card" style="width: 15rem; margin: 5px;">
                     <img class="card-img-top" src="images/cvip/committee/naghabushan.jpg" alt="">
@@ -92,6 +92,27 @@ function reviewers(){
                     <div class="card-body">
                         <h5 class="card-title">Prof. Sri Niwas Singh</h5>
                         <p class="card-text">IIT Kanpur</p>
+                    </div>
+                </div>
+
+            </div>
+
+            <div class="row justify-content-center ftco-animate">
+                <h1 class="col-12 text-center border-bottom">Patron</h1>
+                <hr>
+                <div class="card" style="width: 15rem; margin: 5px;">
+                    <img class="card-img-top" src="images/cvip/committee/gc.jpg" alt="">
+                    <div class="card-body">
+                        <h5 class="card-title">Prof. G.C Nandi</h5>
+                        <p class="card-text">IIIT Allahabadd</p>
+                    </div>
+                </div>
+
+                <div class="card" style="width: 15rem; margin: 5px;">
+                    <img class="card-img-top" src="images/cvip/committee/ust.jpeg" alt="">
+                    <div class="card-body">
+                        <h5 class="card-title">Prof. U.S Tiwari</h5>
+                        <p class="card-text">IIIT Allahabad</p>
                     </div>
                 </div>
 
@@ -281,7 +302,7 @@ function reviewers(){
 
             <!-- Publicity Chair -->
             <?php 
-        $pub_chair = array( ["Dr. Shiv Ram Dubey ","shiv.jpg","IIIT Allahabad"],
+        $pub_chair = array( ["Dr. Shiv Ram Dubey ","shiv.jpe","IIIT Allahabad"],
         ["Dr. Kokila Jagadeesh ","kokila.jpg","IIIT Allahabad"]
                     );
 
@@ -337,12 +358,20 @@ function reviewers(){
             </div>
             
             <div class="row justify-content-center ftco-animate">
-                <h1 class="col-12 text-center border-bottom">Workshop Chair</h1>
+                <h1 class="col-12 text-center border-bottom">Workshop / Tutorial Chair</h1>
                 <hr>
                 <div class="card" style="width: 15rem; margin: 5px;">
                     <img class="card-img-top" src="images/cvip/committee/anshuanand.jpg" alt="">
                     <div class="card-body">
                         <h5 class="card-title">Dr. Anshu S. Anand </h5>
+                        <p class="card-text">IIIT Allahabad</p>
+                    </div>
+                </div>
+
+                <div class="card" style="width: 15rem; margin: 5px;">
+                    <img class="card-img-top" src="images/cvip/committee/rameshkb.jpg" alt="">
+                    <div class="card-body">
+                        <h5 class="card-title">Dr Ramesh Kumar Bhukya </h5>
                         <p class="card-text">IIIT Allahabad</p>
                     </div>
                 </div>
@@ -353,10 +382,10 @@ function reviewers(){
                 <h1 class="col-12 text-center border-bottom">Hospitality Chair</h1>
                 <hr>
                 <div class="card" style="width: 15rem; margin: 5px;">
-                    <img class="card-img-top" src="" alt="">
+                    <img class="card-img-top" src="images/cvip/committee/akhilesh.jpg" alt="">
                     <div class="card-body">
-                        <h5 class="card-title"> </h5>
-                        <p class="card-text"></p>
+                        <h5 class="card-title">Dr. Akhilesh Tiwari  </h5>
+                        <p class="card-text">IIIT Allahabad</p>
                     </div>
                 </div>
 
@@ -373,7 +402,7 @@ function reviewers(){
                     </div>
                 </div>
                 <div class="card" style="width: 15rem; margin: 5px;">
-                    <img class="card-img-top" src="" alt="">
+                    <img class="card-img-top" src="images/cvip/committee/priyanshu.jpg" alt="">
                     <div class="card-body">
                         <h5 class="card-title">Priyanshu Jain</h5>
                         <p class="card-text">IIIT Allahabad</p>
