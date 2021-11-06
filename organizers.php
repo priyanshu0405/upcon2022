@@ -77,7 +77,7 @@ function reviewers(){
             </div>
 
             <div class="row justify-content-center ftco-animate">
-                <h1 class="col-12 text-center border-bottom">Cheif Patron</h1>
+                <h1 class="col-12 text-center border-bottom">Chief Patron</h1>
                 <hr>
                 <div class="card" style="width: 15rem; margin: 5px;">
                     <img class="card-img-top" src="images/cvip/committee/naghabushan.jpg" alt="">
@@ -302,7 +302,7 @@ function reviewers(){
 
             <!-- Publicity Chair -->
             <?php 
-        $pub_chair = array( ["Dr. Shiv Ram Dubey ","shiv.jpe","IIIT Allahabad"],
+        $pub_chair = array( ["Dr. Shiv Ram Dubey ","shiv.jpeg","IIIT Allahabad"],
         ["Dr. Kokila Jagadeesh ","kokila.jpg","IIIT Allahabad"]
                     );
 
@@ -397,7 +397,7 @@ function reviewers(){
                 <div class="card" style="width: 15rem; margin: 5px;">
                     <img class="card-img-top" src="" alt="">
                     <div class="card-body">
-                        <h5 class="card-title"> </h5>
+                        <h5 class="card-title">To be announced</h5>
                         <p class="card-text"></p>
                     </div>
                 </div>
@@ -417,7 +417,7 @@ function reviewers(){
                 <div class="card" style="width: 15rem; margin: 5px;">
                     <img class="card-img-top" src="" alt="">
                     <div class="card-body">
-                        <h5 class="card-title"> </h5>
+                        <h5 class="card-title">To be Announced </h5>
                         <p class="card-text"></p>
                     </div>
                 </div>
