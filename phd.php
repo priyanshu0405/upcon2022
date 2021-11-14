@@ -4,7 +4,7 @@
 <!-- Mirrored from colorlib.com/preview/theme/plataforma/speakers.html by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 30 Oct 2020 23:38:30 GMT -->
 <!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=UTF-8" /><!-- /Added by HTTrack -->
 <head>
-<title>CVIP 2020</title>
+<title>UPCON 2022</title>
 <?php include("layout/meta.php");?>
 </head>
 <body>
@@ -31,15 +31,15 @@
 
 </div>
 <p>
-  CVIP 2020 will also provide platform for budding PhD scholars who are pursuing cutting edge research work at various Research Institutes or Universities within India and Abroad, In the broad area of Computer Vision and Image Processing.<br>
+  UPCON 2022 will also provide platform for budding PhD scholars who are pursuing cutting edge research work at various Research Institutes or Universities within India and Abroad, In the broad area of Computer Vision and Image Processing.<br>
   This scheme is open for PhD Scholors of Institutes of National importance like IITs, IIITs, NITs and any other Research Institute or University.<br>
-  Final selection will be done based on the technical relevance of the PhD problem to the conference theme, And the quality of working model proposed(or proposing). PhD scholars who have submitted thesis, as well as recently PhD awarded thesis(during 2019-2020) can also participate.<br>
-  Interested candidates can submit research plan or proposal within 2 pages of extended abstract to <b>cvip2020@iiita.ac.in</b> on or before 15th August 2020 (with email subject as CVIP 2020 PhD Colloquium Submission)
+  Final selection will be done based on the technical relevance of the PhD problem to the conference theme, And the quality of working model proposed(or proposing). PhD scholars who have submitted thesis, as well as recently PhD awarded thesis(during 2021-2022) can also participate.<br>
+  Interested candidates can submit research plan or proposal within 2 pages of extended abstract to <b>upcon2022@iiita.ac.in</b> on or before 31st July 2022 (with email subject as UPCON 2022 PhD Colloquium Submission)
 </p>
 <h4>Few Points to be noted:</h4>
 <ul>
   <li>Selected candidates are required to register for the conference at a special regstration rate, and must do a poster presentation at the conference</li>
-  <li>The selected and registered candidate will get free passport to all the sessions of CVIP2020 including dinner and cultural program</li>
+  <li>The selected and registered candidate will get free passport to all the sessions of UPCON2022 including dinner and cultural program</li>
 </ul>
 </div>
 </section>

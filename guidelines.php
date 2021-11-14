@@ -4,7 +4,7 @@
 <!-- Mirrored from colorlib.com/preview/theme/plataforma/speakers.html by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 30 Oct 2020 23:38:30 GMT -->
 <!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=UTF-8" /><!-- /Added by HTTrack -->
 <head>
-<title>CVIP 2020</title>
+<title>UPCON 2022</title>
 <?php include("layout/meta.php");?>
 </head>
 <body>

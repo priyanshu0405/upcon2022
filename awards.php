@@ -52,7 +52,7 @@
         <div class="container-sm">
 
             <nav class="navbar navbar-expand-lg navbar-light bg-light mb-3">
-                <a class="navbar-brand" href="/">CVIP 2020</a>
+                <a class="navbar-brand" href="/">UPCON 2022</a>
                 <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav"
                     aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
                     <span class="navbar-toggler-icon"></span>
@@ -60,7 +60,7 @@
                 <div class="collapse navbar-collapse" id="navbarNav">
                     <ul class="navbar-nav">
                         <li class="nav-item active">
-                            <a class="nav-link" href="/awards.php">CVIP 2020 Awards<span
+                            <a class="nav-link" href="/awards.php">UPCON 2022 Awards<span
                                     class="sr-only">(current)</span></a>
                         </li>
                         <li class="nav-item">
@@ -83,7 +83,7 @@
 
             <div class="row">
                 <div class="col-12">
-                    <h1 class="display-4 text-center">CVIP 2020 Awards <svg width="1em" height="1em" viewBox="0 0 16 16"
+                    <h1 class="display-4 text-center">UPCON 2022 Awards <svg width="1em" height="1em" viewBox="0 0 16 16"
                             class="bi bi-award-fill" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
                             <path
                                 d="M8 0l1.669.864 1.858.282.842 1.68 1.337 1.32L13.4 6l.306 1.854-1.337 1.32-.842 1.68-1.858.282L8 12l-1.669-.864-1.858-.282-.842-1.68-1.337-1.32L2.6 6l-.306-1.854 1.337-1.32.842-1.68L6.331.864 8 0z" />
@@ -107,7 +107,7 @@
                     <div class="col-12 border rounded p-1 bg-dark" style=" display: block;">
                         <h5 class="p-1 m-1"
                             style="width: 100%; color: #fff; font-family: SFMono-Regular,Menlo,Monaco,Consolas,'Liberation Mono','Courier New',monospace">
-                            CVIP 2020 Best
+                            UPCON 2022 Best
                             Paper
                             Award
                         </h5>
@@ -126,7 +126,7 @@
                     <div class="col-12 border rounded p-1 bg-dark" style=" display: block;">
                         <h5 class="p-1 m-1"
                             style="width: 100%; color: #fff; font-family: SFMono-Regular,Menlo,Monaco,Consolas,'Liberation Mono','Courier New',monospace">
-                            CVIP 2020 Best
+                            UPCON 2022 Best
                             PhD Thesis
                             Award
                         </h5>

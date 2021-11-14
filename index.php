@@ -75,7 +75,7 @@
                                 </tr>
                                 <tr>
                                     <td class="text-left">Final Submission Deadline</td>
-                                    <td>31 July, 2020</td>
+                                    <td>31 July, 2022</td>
                                 </tr>
                                 <tr>
                                     <td class="text-left">Early Bird Registration Deadline*</td>
@@ -170,7 +170,7 @@
 <div class="container-fluid px-4">
 <div class="row justify-content-center mb-5">
 <div class="col-md-7 text-center heading-section ftco-animate">
-<h2 class="mb-3">CVIP 2020 Gallery</h2>
+<h2 class="mb-3">UPCON 2022 Gallery</h2>
 </div>
 </div>
 <div class="row">

@@ -1,6 +1,6 @@
 <nav class="main_nav navbar navbar-expand-lg navbar-dark ftco_navbar bg-dark ftco-navbar-light" id="ftco-navbar">
     <div class="container">
-        <!-- <a class="navbar-brand" style="color:black" href="index.html">CVIP 2020.</a> -->
+        <!-- <a class="navbar-brand" style="color:black" href="index.html">UPCON 2022.</a> -->
         <a href="/"><img height="100" src="images/cvip/logo-red.png" /></a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#ftco-nav"
             aria-controls="ftco-nav" aria-expanded="false" aria-label="Toggle navigation">
@@ -11,14 +11,14 @@
                 <li class="nav-item active"><a href="index.php" class="nav-link">Home</a></li>
                 <li class="nav-item"><a href="organizers.php" class="nav-link">Committee</a></li>
                 <li class="nav-item"><a href="speakers.php" class="nav-link">Keynote</a></li>
-                <li class="nav-item"><a href="awards.php" class="nav-link">Awards</a></li>
+                <li class="nav-item"><a href="" class="nav-link">Awards</a></li>
                 <li class="has_children nav-item dropdown">
                     <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#">Call For Papers</a>
                     <ul class="dropdown-menu">
                         <li style="margin:4%"><a href="cfp.php">Call For Papers</a></li>
-                        <li style="margin:4%"><a href="guidelines.php">Guidelines</a></li>
-                        <li style="margin:4%"><a href="accepted.php" target="_blank">Accepted Papers</a></li>
-                        <li style="margin:4%"><a href="registered.php" target="_blank">Registered Papers</a></li>
+                        <li style="margin:4%"><a href="">Guidelines</a></li>
+                        <li style="margin:4%"><a href="" target="_blank">Accepted Papers</a></li>
+                        <li style="margin:4%"><a href="" target="_blank">Registered Papers</a></li>
                         <!-- <li style="margin:4%"><a href="#">Camera Ready Submission</a></li>			 -->
                     </ul>
                 </li>
