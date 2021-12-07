@@ -116,6 +116,30 @@ function reviewers(){
                     </div>
                 </div>
 
+                <div class="card" style="width: 15rem; margin: 5px;">
+                    <img class="card-img-top" src="images/cvip/committee/aksingh.jpg" alt="">
+                    <div class="card-body">
+                        <h5 class="card-title">Prof Asheesh Kumar Singh</h5>
+                        <p class="card-text">MNNIT Allahabad</p>
+                    </div>
+                </div>
+
+                <div class="card" style="width: 15rem; margin: 5px;">
+                    <img class="card-img-top" src="images/cvip/committee/jrkumar.jpg" alt="">
+                    <div class="card-body">
+                        <h5 class="card-title">Dr. J. Ramkumar </h5>
+                        <p class="card-text">IIT Kanpur</p>
+                    </div>
+                </div>
+
+                <div class="card" style="width: 15rem; margin: 5px;">
+                    <img class="card-img-top" src="images/cvip/committee/kvs.jpg" alt="">
+                    <div class="card-body">
+                        <h5 class="card-title">Dr. Kumar Vaibhav Srivastava </h5>
+                        <p class="card-text">IIT Kanpur</p>
+                    </div>
+                </div>
+
             </div>
 
             <div class="row justify-content-center ftco-animate">
@@ -169,9 +193,9 @@ function reviewers(){
 
             <?php 
             $conf_chairs = array(["Dr. Mohammed Javed","javed.jpg","IIIT Allahabad"],["Dr. Navjot Singh","navjot.jpg","IIIT Allahabad"]);
-            $conf_convrs = array(["Dr. Muneendra Ojha ","mojha.jpg","IIIT Allahabad"]);
+            $conf_convrs = array(["Dr. Muneendra Ojha ","mojha.jpg","IIIT Allahabad"],["Dr. Shiv Ram Dubey ","shiv.jpeg","IIIT Allahabad"],["Dr Prasanna Kumar Mishra","prasanna.jpg","IIIT Allahabad"],["Dr Sunny Sharma","sunny.jpg","IIIT Allahabad"]);
 
-            $local_chairs = array();
+            $local_chairs = array(["Prof Pritish Kumar Varadwaj","pritish.jpg","IIIT Allahabad"]);
             $inter_advisory_com = array(
                                     ["Prof. K. C. Gowda","gowda.png","Former VC, Kuvempu University"],
                                     ["Prof. Paula Brito","paula.jpg"," University of Porto, Portugal"],
@@ -190,7 +214,6 @@ function reviewers(){
                                     ["Prof. B. M. Mehtre","mehtre.jpg","IDRBT Hyderabad"],
                                     ["Dr. Pradeep Kumar","pradeep.jpeg","CEO, Amphisoft"],
                                     ["Prof. D.S Guru","dsguru.jpeg","University of Mysore"],
-                                    ["Prof. U.S Tiwari","ust.jpeg","IIIT Allahabad"],
                                     ["Prof. Anupam Agrawal","anupam.jpg","IIIT Allahabad"],
                                     ["Prof. O.P Vyas","op.jpeg","IIIT Allahabad"],
                                     ["Prof. Jonathan Wu","Jonathan.jpg","University of Windsor, Canada"],
@@ -302,9 +325,10 @@ function reviewers(){
 
             <!-- Publicity Chair -->
             <?php 
-        $pub_chair = array( ["Dr. Shiv Ram Dubey ","shiv.jpeg","IIIT Allahabad"],
-        ["Dr. Kokila Jagadeesh ","kokila.jpg","IIIT Allahabad"]
-                    );
+        $pub_chair = array( ["Dr Amar Nath Yadav","amar.jpg","IIIT Allahabad"],
+        ["Dr. Kokila Jagadeesh ","kokila.jpg","IIIT Allahabad"],
+         ["Dr. Kavindra Kandpal","kavindra.jpg","IIIT Allahabad"],
+        ["krishna kumar","",""]          );
 
         ?>
 
@@ -329,7 +353,7 @@ function reviewers(){
 
             <!-- PhD Colloquium Chair -->
             <?php 
-            $phd = array();
+            $phd = array(["Prof. Neetesh Purohit","nitesh.jpeg","IIIT Allahabad"],["Prof. Yogesh Singh Chauhan","ysc.jpg","IIT Kanpur"],["Dr. Nabajyoti Mazumdar (Convener)","nabjyoti.jpeg","IIIT Allahabad"]);
         ?>
 
             <div class="row justify-content-center ftco-animate">
@@ -341,7 +365,7 @@ function reviewers(){
 
             <!-- Technical Programme Chair -->
             <?php 
-            $tech = array(["Dr. Vrijendra Singh (Computers)","vrijsingh.jpg","IIIT Allahabad"],["Prof Asheesh Kumar Singh (Electrical)","aksingh.jpg","MNNIT Allahabad"]);
+            $tech = array(["Dr. Vrijendra Singh (Computers)","vrijsingh.jpg","IIIT Allahabad"],["Dr. Manish Goswami","manish.jpeg","IIIT Allahabad"],[]);
 
         ?>
 
@@ -415,15 +439,14 @@ function reviewers(){
                 <h1 class="col-12 text-center border-bottom">Award Committee</h1>
                 <hr>
                 <div class="card" style="width: 15rem; margin: 5px;">
-                    <img class="card-img-top" src="" alt="">
+                    <img class="card-img-top" src="images/cvip/committee/ust.jpeg" alt="">
                     <div class="card-body">
-                        <h5 class="card-title">To be Announced </h5>
-                        <p class="card-text"></p>
+                        <h5 class="card-title">Prof. U.S Tiwari</h5>
+                        <p class="card-text">IIIT Allahabad</p>
                     </div>
                 </div>
 
             </div>
-
 
         </div>
 
