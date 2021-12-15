@@ -260,7 +260,12 @@ function reviewers(){
                                     ["Dr. Bunil Kumar Balabantaray","bunil.jpg","NIT Meghalaya"],
                                     ["Prof. Wei-Ta Chu","chu.jpg","National Chung Cheng University, Chiayi, Taiwan"],
                                     ["Prof. Ramakrishnan Ganesan Angarai","rama.png","IISc Bangalore"],
-                                    ["Dr. Rajeev Jaiswal","rajeevisro.jpg","Deputy Director, EDPO, ISRO HQ (Bangalore)"]
+                                    ["Dr. Rajeev Jaiswal","rajeevisro.jpg","Deputy Director, EDPO, ISRO HQ (Bangalore)"],
+                                    ["Dr Manish Kumar","manishKumar.jpg","IIIT Allahabad"],
+                                    ["Dr. Vijay Kumar Chaurasiya ","vkc.jpg","IIIT Allahabad"],
+                                    ["Dr Krishna Pratap Singh","kpsingh.jpg","IIIT Allahabad"],
+                                    ["Dr S. Venkatesan","venka.jpg","IIIT Allahabad"],
+                                    ["Dr Sonali Agarwal","sonali.jpg","IIIT Allahabad"]
                                 );
 
                                 sort($inter_advisory_com);
@@ -341,7 +346,7 @@ function reviewers(){
 
             <!-- Sponsorship Chair -->
             <?php 
-            $spons = array();
+            $spons = array(["Dr. Anjali Gautam ","anjali.jpg","IIIT Allahabad"],["Dr. Boddepalli SanthiBhushan ","shantiBhushan.jpg","IIIT Allahabad"],["Dr. Amaresh Kumar Sahoo","amaresh.png","IIIT Allahabad"],["Dr Abdullah Bin Abu Baker","abdulla.jpeg","IIIT Allahabad"]);
         ?>
 
             <div class="row justify-content-center ftco-animate">
@@ -419,10 +424,10 @@ function reviewers(){
                 <h1 class="col-12 text-center border-bottom">Web Management Committee</h1>
                 <hr>
                 <div class="card" style="width: 15rem; margin: 5px;">
-                    <img class="card-img-top" src="" alt="">
+                    <img class="card-img-top" src="images/cvip/committee/himanshu.jpg" alt="">
                     <div class="card-body">
-                        <h5 class="card-title">To be announced</h5>
-                        <p class="card-text"></p>
+                        <h5 class="card-title">Dr Himanshu Maurya</h5>
+                        <p class="card-text">IIIT Allahabad</p>
                     </div>
                 </div>
                 <div class="card" style="width: 15rem; margin: 5px;">
