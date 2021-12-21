@@ -83,7 +83,7 @@ function reviewers(){
                     <img class="card-img-top" src="images/cvip/committee/naghabushan.jpg" alt="">
                     <div class="card-body">
                         <h5 class="card-title">Prof. P. Nagabhushan</h5>
-                        <p class="card-text">Director, IIIT Allahabadd</p>
+                        <p class="card-text">Director, IIIT Allahabad</p>
                     </div>
                 </div>
 
@@ -104,7 +104,7 @@ function reviewers(){
                     <img class="card-img-top" src="images/cvip/committee/gc.jpg" alt="">
                     <div class="card-body">
                         <h5 class="card-title">Prof. G.C Nandi</h5>
-                        <p class="card-text">IIIT Allahabadd</p>
+                        <p class="card-text">IIIT Allahabad</p>
                     </div>
                 </div>
 
