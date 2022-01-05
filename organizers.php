@@ -101,6 +101,14 @@ function reviewers(){
                 <h1 class="col-12 text-center border-bottom">Patron</h1>
                 <hr>
                 <div class="card" style="width: 15rem; margin: 5px;">
+                    <img class="card-img-top" src="images/cvip/committee/jrkumar.jpg" alt="">
+                    <div class="card-body">
+                        <h5 class="card-title">Prof. J. Ramkumar </h5>
+                        <p class="card-text">IIT Kanpur</p>
+                    </div>
+                </div>
+
+                <div class="card" style="width: 15rem; margin: 5px;">
                     <img class="card-img-top" src="images/cvip/committee/gc.jpg" alt="">
                     <div class="card-body">
                         <h5 class="card-title">Prof. G.C Nandi</h5>
@@ -125,17 +133,9 @@ function reviewers(){
                 </div>
 
                 <div class="card" style="width: 15rem; margin: 5px;">
-                    <img class="card-img-top" src="images/cvip/committee/jrkumar.jpg" alt="">
-                    <div class="card-body">
-                        <h5 class="card-title">Dr. J. Ramkumar </h5>
-                        <p class="card-text">IIT Kanpur</p>
-                    </div>
-                </div>
-
-                <div class="card" style="width: 15rem; margin: 5px;">
                     <img class="card-img-top" src="images/cvip/committee/kvs.jpg" alt="">
                     <div class="card-body">
-                        <h5 class="card-title">Dr. Kumar Vaibhav Srivastava </h5>
+                        <h5 class="card-title">Prof. Kumar Vaibhav Srivastava </h5>
                         <p class="card-text">IIT Kanpur</p>
                     </div>
                 </div>
@@ -156,7 +156,7 @@ function reviewers(){
                     <img class="card-img-top" src="images/cvip/committee/satish.png" alt="">
                     <div class="card-body">
                         <h5 class="card-title">Dr. Satish K. Singh</h5>
-                        <p class="card-text">IIIT Allahabad</p>
+                        <p class="card-text">Chair, IEEE UP Section</p>
                     </div>
                 </div>
             </div>
@@ -219,7 +219,6 @@ function reviewers(){
                                     ["Prof. Jonathan Wu","Jonathan.jpg","University of Windsor, Canada"],
                                     ["Prof. Xiaoyi Jiang","jiang.jpg","University of Münster,Germany"],
                                     ["Prof. Chirag N. Paunwala","chirag.jpeg","SCET, Surat"],
-                                    ["Prof. Suman Mitra","suman.jpg","DA-IICT Gandhinagar"],
                                     ["Prof. Sanjay Kumar Singh","sksingh.jpg","IIT BHU"],
                                     ["Prof. Suneeta Agarwal","sa.jpg","MNNIT Allahabad"],
                                     ["Prof. Ananda Shankar Chowdhury","ananda.jpg","Jadavpur University"],
@@ -333,7 +332,7 @@ function reviewers(){
         $pub_chair = array( ["Dr Amar Nath Yadav","amar.jpg","IIIT Allahabad"],
         ["Dr. Kokila Jagadeesh ","kokila.jpg","IIIT Allahabad"],
          ["Dr. Kavindra Kandpal","kavindra.jpg","IIIT Allahabad"],
-        ["krishna kumar","",""]          );
+        ["Dr. Krishan Kumar","kk_nituk.jpeg","NIT Uttarakhand"]          );
 
         ?>
 
@@ -450,7 +449,15 @@ function reviewers(){
                         <p class="card-text">IIIT Allahabad</p>
                     </div>
                 </div>
-
+                
+                <div class="card" style="width: 15rem; margin: 5px;">
+                    <img class="card-img-top" src="images/cvip/committee/scs.jpg" alt="">
+                    <div class="card-body">
+                        <h5 class="card-title">Prof. S. C. Srivastava</h5>
+                        <p class="card-text">IIT Kanpur</p>
+                    </div>
+                </div>
+                
             </div>
 
         </div>
