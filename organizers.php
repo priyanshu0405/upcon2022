@@ -332,7 +332,8 @@ function reviewers(){
         $pub_chair = array( ["Dr Amar Nath Yadav","amar.jpg","IIIT Allahabad"],
         ["Dr. Kokila Jagadeesh ","kokila.jpg","IIIT Allahabad"],
          ["Dr. Kavindra Kandpal","kavindra.jpg","IIIT Allahabad"],
-        ["Dr. Krishan Kumar","kk_nituk.jpeg","NIT Uttarakhand"]          );
+        ["Dr. Krishan Kumar","kk_nituk.jpeg","NIT Uttarakhand"],
+        ["Dr. Varun Kumar Kakar","vkk.png","BTKIT Dwarahat"]          );
 
         ?>
 
@@ -369,7 +370,7 @@ function reviewers(){
 
             <!-- Technical Programme Chair -->
             <?php 
-            $tech = array(["Dr. Vrijendra Singh (Computers)","vrijsingh.jpg","IIIT Allahabad"],["Dr. Manish Goswami","manish.jpeg","IIIT Allahabad"],[]);
+            $tech = array(["Dr. Vrijendra Singh (Computers)","vrijsingh.jpg","IIIT Allahabad"],["Dr. Manish Goswami (Electronics)","manish.jpeg","IIIT Allahabad"],[]);
 
         ?>
 
