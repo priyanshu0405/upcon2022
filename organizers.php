@@ -332,8 +332,7 @@ function reviewers(){
         $pub_chair = array( ["Dr Amar Nath Yadav","amar.jpg","IIIT Allahabad"],
         ["Dr. Kokila Jagadeesh ","kokila.jpg","IIIT Allahabad"],
          ["Dr. Kavindra Kandpal","kavindra.jpg","IIIT Allahabad"],
-        ["Dr. Krishan Kumar","kk_nituk.jpeg","NIT Uttarakhand"],
-        ["Dr. Varun Kumar Kakar","vkk.png","BTKIT Dwarahat"]          );
+        ["Dr. Krishan Kumar","kk_nituk.jpeg","NIT Uttarakhand"]       );
 
         ?>
 
@@ -341,6 +340,19 @@ function reviewers(){
                 <h1 class="col-12 text-center border-bottom">Publicity Chair</h1>
                 <hr>
                 <?php display_cards($pub_chair);?>
+
+            </div>
+
+            <?php 
+        $publication_chair = array( 
+        ["Dr. Varun Kumar Kakar","vkk.png","BTKIT Dwarahat"]          );
+
+        ?>
+
+            <div class="row justify-content-center ftco-animate">
+                <h1 class="col-12 text-center border-bottom">Publication Chair</h1>
+                <hr>
+                <?php display_cards($publication_chair);?>
 
             </div>
 
