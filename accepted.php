@@ -60,10 +60,10 @@
                             <a class="nav-link" href="/registered.php">Registered Papers </a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="/files/pschedule.pdf" target="_blank">Program Schedule </a>
+                            <a class="nav-link" href="" target="_blank">Program Schedule </a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="/files/paperschedule.pdf" target="_blank">Paper Presentation
+                            <a class="nav-link" href="" target="_blank">Paper Presentation
                                 Schedule</a>
                         </li>
                     </ul>
@@ -74,7 +74,8 @@
                 <div class="col-12">
                     <h1 class="display-4 text-center">List of Accepted Papers</h1>
                     <hr>
-                    <ul class="list-group list-group-flush">
+                    <h3>TBD</h3>
+                    <!-- <ul class="list-group list-group-flush">
 
                         <?php foreach($arr1 as $key=>$value){ ?>
                         <li class="list-group-item">
@@ -83,7 +84,7 @@
                             <p><?=ucwords($value[3]);?></p>
                         </li>
                         <?php }?>
-                    </ul>
+                    </ul> -->
                 </div>
             </div>
 

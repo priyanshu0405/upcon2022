@@ -71,10 +71,10 @@
                             <a class="nav-link" href="/registered.php">Registered Papers </a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="/files/pschedule.pdf" target="_blank">Program Schedule </a>
+                            <a class="nav-link" href="" target="_blank">Program Schedule </a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="/files/paperschedule.pdf" target="_blank">Paper Presentation
+                            <a class="nav-link" href="" target="_blank">Paper Presentation
                                 Schedule</a>
                         </li>
                     </ul>
@@ -90,8 +90,8 @@
                             <path d="M4 11.794V16l4-1 4 1v-4.206l-2.018.306L8 13.126 6.018 12.1 4 11.794z" />
                         </svg></h1>
                     <hr>
-
-                    <ul class="list-group list-group-flush">
+                    <h3>TBD</h3>
+                    <!-- <ul class="list-group list-group-flush">
 
                         <?php foreach($arr1 as $key=>$value){ ?>
                         <h5 class="p-1"><kbd style="background-color: red;"><?=$value[0];?><kbd></h5>
@@ -102,7 +102,7 @@
                             <p><?=ucwords($value[4]);?></p>
                         </li>
                         <?php }?>
-                    </ul>
+                    </ul> -->
                     <hr>
                     <div class="col-12 border rounded p-1 bg-dark" style=" display: block;">
                         <h5 class="p-1 m-1"
@@ -112,7 +112,8 @@
                             Award
                         </h5>
                     </div>
-                    <ul class="list-group list-group-flush">
+                    <h3>TBD</h3>
+                    <!-- <ul class="list-group list-group-flush">
                         <?php foreach($arr2 as $key=>$value){ ?>
                         <li class="list-group-item">
                             <p><strong>Paper ID#<?=$value[0];?></strong></p>
@@ -121,7 +122,7 @@
                             <p><?=ucwords($value[3]);?></p>
                         </li>
                         <?php }?>
-                    </ul>
+                    </ul> -->
                     <hr>
                     <div class="col-12 border rounded p-1 bg-dark" style=" display: block;">
                         <h5 class="p-1 m-1"
@@ -131,14 +132,14 @@
                             Award
                         </h5>
                     </div>
-                    <ul class="list-group list-group-flush">
+                    <!-- <ul class="list-group list-group-flush">
                         <li class="list-group-item">
                             <strong class="lead">Compression History Estimation and Source Identification for Image and
                                 Audio Forensics</strong><br>
                             <h6>Vinay Verma</h6>
                         </li>
-                    </ul>
-
+                    </ul> -->
+                    <h3>TBD</h3>
                 </div>
             </div>
 
