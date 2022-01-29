@@ -26,7 +26,7 @@
                         <li style="margin:4%"><a href="cfp.php">Call For Papers</a></li>
                         <li style="margin:4%"><a href="">Guidelines</a></li>
                         <li style="margin:4%"><a href="accepted.php" target="_blank">Accepted Papers</a></li>
-                        <li style="margin:4%"><a href="rejected.php" target="_blank">Registered Papers</a></li>
+                        <li style="margin:4%"><a href="registered.php" target="_blank">Registered Papers</a></li>
                         <!-- <li style="margin:4%"><a href="#">Camera Ready Submission</a></li>			 -->
                     </ul>
                 </li>

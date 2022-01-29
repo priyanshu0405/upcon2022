@@ -79,9 +79,9 @@
                 <p>
                     Start of paper submission on Easy Chair : <b>1 Jan, 2022</b><br>
                     Last date for submission of paper : <b>31 July, 2022</b><br>
-                    Acceptance notification to authors : <b>31 Sept, 2022</b><br>
-                    Registration : <b>10 Nov, 2022(Extended Upto 20 Nov, 2022)</b><br>
-                    Camera ready version : <b>10 Nov, 2022</b><br>
+                    Rolling Acceptance : <b>31 Sept, 2022</b><br>
+                    Registration deadline: <b>10 Nov, 2022(Extended Upto 20 Nov, 2022)</b><br>
+                    Camera ready submission : <b>10 Nov, 2022</b><br>
                     Conference Dates : <b>2-4 Dec, 2022</b><br>
                 </p>
                 <h4 style="color:#96281B"><b>Paper Submission:</b></h4>
