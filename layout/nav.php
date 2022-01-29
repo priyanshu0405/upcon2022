@@ -10,6 +10,15 @@
             <ul class="navbar-nav ml-auto">
                 <li class="nav-item active"><a href="index.php" class="nav-link">Home</a></li>
                 <li class="nav-item"><a href="organizers.php" class="nav-link">Committee</a></li>
+                <li class="has_children nav-item dropdown">
+                    <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#">Committee</a>
+                    <ul class="dropdown-menu">
+                        <li style="margin:4%"><a href="organizers.php">Organizing Committee</a></li>
+                        <li style="margin:4%"><a href="advisor_organizers.php">Advisory Committee</a></li>
+                        <li style="margin:4%"><a href="tech_organizers.php">Technical Programme Committee</a></li>
+                        <!-- <li style="margin:4%"><a href="#">Camera Ready Submission</a></li>			 -->
+                    </ul>
+                </li>
                 <li class="nav-item"><a href="speakers.php" class="nav-link">Keynote</a></li>
                 <li class="nav-item"><a href="" class="nav-link">Awards</a></li>
                 <li class="has_children nav-item dropdown">
