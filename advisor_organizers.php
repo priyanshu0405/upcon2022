@@ -140,7 +140,9 @@ function reviewers(){
                                     ["Dr. Vijay Kumar Chaurasiya ","vkc.jpg","IIIT Allahabad"],
                                     ["Dr Krishna Pratap Singh","kpsingh.jpg","IIIT Allahabad"],
                                     ["Dr S. Venkatesan","venka.jpg","IIIT Allahabad"],
-                                    ["Dr Sonali Agarwal","sonali.jpg","IIIT Allahabad"]
+                                    ["Dr Sonali Agarwal","sonali.jpg","IIIT Allahabad"],
+                                    ["Dr. Vrijendra Singh (Computers)","vrijsingh.jpg","IIIT Allahabad"],
+                                    ["Dr. Manish Goswami (Electronics)","manish.jpeg","IIIT Allahabad"]
                                 );
 
                                 sort($inter_advisory_com);

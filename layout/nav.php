@@ -19,7 +19,7 @@
                     </ul>
                 </li>
                 <li class="nav-item"><a href="speakers.php" class="nav-link">Keynote</a></li>
-                <li class="nav-item"><a href="" class="nav-link">Awards</a></li>
+                <li class="nav-item"><a href="awards.php" class="nav-link">Awards</a></li>
                 <li class="has_children nav-item dropdown">
                     <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#">Call For Papers</a>
                     <ul class="dropdown-menu">
@@ -54,7 +54,7 @@
                     </ul>
                 </li>
                 <!-- <li class="nav-item"><a href="contact.html" class="nav-link">Registration</a></li> -->
-                <li class="nav-item cta mr-md-2"><a href="" class="nav-link">Register</a></li>
+                <li class="nav-item cta mr-md-2"><a href="https://cmt3.research.microsoft.com/UPCON2022" class="nav-link">Register</a></li>
             </ul>
         </div>
     </div>

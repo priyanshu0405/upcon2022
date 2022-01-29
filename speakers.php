@@ -42,7 +42,7 @@ include("layout/meta.php");
             <div class="row">
 
                 <div class="col-md-12">
-                    <div class="speaker ftco-animate speaker-1 d-flex align-items-center mb-5">
+                    <!-- <div class="speaker ftco-animate speaker-1 d-flex align-items-center mb-5">
                         <div class="img img-responsive"
                             style="background-image: url(images/cvip/committee/massimo.png);"></div>
                         <div class="text pl-4">
@@ -76,11 +76,7 @@ include("layout/meta.php");
                                 <li><a class="btn btn-primary rounded" href="details.php?speaker=ramakrishnan"
                                         target="_blank">Details</a></li>
                             </ul>
-                            <!-- <ul class="ftco-social">
-    <li><a href="#"><span class="icon-twitter"></span></a></li>
-    <li><a href="#"><span class="icon-facebook"></span></a></li>
-    <li><a href="#"><span class="icon-instagram"></span></a></li>
-    </ul> -->
+                         
                         </div>
                     </div>
 
@@ -101,11 +97,7 @@ include("layout/meta.php");
                                 <li><a class="btn btn-primary rounded" href="details.php?speaker=sushmita"
                                         target="_blank">Details</a></li>
                             </ul>
-                            <!-- <ul class="ftco-social">
-    <li><a href="#"><span class="icon-twitter"></span></a></li>
-    <li><a href="#"><span class="icon-facebook"></span></a></li>
-    <li><a href="#"><span class="icon-instagram"></span></a></li>
-    </ul> -->
+                         
                         </div>
                     </div>
 
@@ -128,11 +120,7 @@ include("layout/meta.php");
                                         target="_blank">Details</a></li>
                             </ul>
 
-                            <!-- <ul class="ftco-social">
-    <li><a href="#"><span class="icon-twitter"></span></a></li>
-    <li><a href="#"><span class="icon-facebook"></span></a></li>
-    <li><a href="#"><span class="icon-instagram"></span></a></li>
-    </ul> -->
+                         
                         </div>
                     </div>
 
@@ -153,11 +141,7 @@ include("layout/meta.php");
                                 <li><a class="btn btn-primary rounded" href="details.php?speaker=gaurav"
                                         target="_blank">Details</a></li>
                             </ul>
-                            <!-- <ul class="ftco-social">
-  <li><a href="#"><span class="icon-twitter"></span></a></li>
-  <li><a href="#"><span class="icon-facebook"></span></a></li>
-  <li><a href="#"><span class="icon-instagram"></span></a></li>
-  </ul> -->
+                            
                         </div>
                     </div>
 
@@ -189,12 +173,7 @@ include("layout/meta.php");
                             <h3>Ms. Kamiya Khatter</h3>
                             <span class="position">Associate Editor, Applied Sciences and Engineering, Springer Nature
                                 India </span>
-                            <!-- <p>Professor, Electronics and Communication Sciences Unit, ISI Kolkata</p> -->
-
-                            <!-- <p><strong>Talk: AI in Reality: Challenges and Opportunities</strong></p>
-    <ul style="text-decoration: none; list-style: none;margin-left: 0; padding-left: 0;">
-    <li><a class="btn btn-primary rounded" href="details.php?speaker=guru" target="_blank">Details</a></li>
-    </ul> -->
+                            
                             <p><strong>Talk: Ethical Academic and Scientific
                                     Publishing</strong><br><strong>Date/Time:</strong> <kbd>03:45 - 05:15PM (IST),
                                     December
@@ -226,10 +205,7 @@ include("layout/meta.php");
                                         target="_blank">Details</a></li>
                             </ul>
 
-                            <!-- <p><strong>Talk: AI in Reality: Challenges and Opportunities</strong></p>
-    <ul style="text-decoration: none; list-style: none;margin-left: 0; padding-left: 0;">
-    <li><a class="btn btn-primary rounded" href="details.php?speaker=guru" target="_blank">Details</a></li>
-    </ul> -->
+                           
 
                         </div>
                     </div>
@@ -246,10 +222,7 @@ include("layout/meta.php");
                                     December
                                     06,
                                     2020</kbd></p>
-                            <!--
-    <ul style="text-decoration: none; list-style: none;margin-left: 0; padding-left: 0;">
-    <li><a class="btn btn-primary rounded" href="details.php?speaker=guru" target="_blank">Details</a></li>
-    </ul> -->
+                           
                             <ul style="text-decoration: none; list-style: none;margin-left: 0; padding-left: 0;">
                                 <li><a class="btn btn-primary rounded" href="details.php?speaker=bchanda"
                                         target="_blank">Details</a></li>
@@ -274,11 +247,7 @@ include("layout/meta.php");
                                     December
                                     04,
                                     2020</kbd></p>
-                            <!-- <ul class="ftco-social">
-    <li><a href="#"><span class="icon-twitter"></span></a></li>
-    <li><a href="#"><span class="icon-facebook"></span></a></li>
-    <li><a href="#"><span class="icon-instagram"></span></a></li>
-    </ul> -->
+                            
                         </div>
                     </div>
                     <div class="speaker ftco-animate speaker-1 d-flex align-items-center mb-5">
@@ -289,15 +258,7 @@ include("layout/meta.php");
                             <span class="position">IIIT Allahabad</span>
                             <p>Professor in Department of Information Technology,
                                 IIIT Allahabad.</p>
-                            <!-- <p><br><strong>Date/Time:</strong> <kbd>10:00 - 10:45AM (IST),
-                                    December
-                                    04,
-                                    2020</kbd></p> -->
-                            <!-- <ul class="ftco-social">
-    <li><a href="#"><span class="icon-twitter"></span></a></li>
-    <li><a href="#"><span class="icon-facebook"></span></a></li>
-    <li><a href="#"><span class="icon-instagram"></span></a></li>
-    </ul> -->
+                            
                         </div>
                     </div>
                     <div class="speaker ftco-animate speaker-1 d-flex align-items-center mb-5">
@@ -316,15 +277,7 @@ include("layout/meta.php");
                                     06,
                                     2020</kbd>
                             </p>
-                            <!-- <p><br><strong>Date/Time:</strong> <kbd>10:00 - 10:45AM (IST),
-                                    December
-                                    04,
-                                    2020</kbd></p> -->
-                            <!-- <ul class="ftco-social">
-    <li><a href="#"><span class="icon-twitter"></span></a></li>
-    <li><a href="#"><span class="icon-facebook"></span></a></li>
-    <li><a href="#"><span class="icon-instagram"></span></a></li>
-    </ul> -->
+                            
                         </div>
                     </div>
 
@@ -342,26 +295,23 @@ include("layout/meta.php");
                                     December
                                     04,
                                     2020</kbd></p>
-                            <!--
-    <ul style="text-decoration: none; list-style: none;margin-left: 0; padding-left: 0;">
-    <li><a class="btn btn-primary rounded" href="details.php?speaker=guru" target="_blank">Details</a></li>
-    </ul> -->
+                            
                             <ul style="text-decoration: none; list-style: none;margin-left: 0; padding-left: 0;">
                                 <li><a class="btn btn-primary rounded" href="details.php?speaker=kiran"
                                         target="_blank">Details</a></li>
                             </ul>
                         </div>
-                    </div>
+                    </div> -->
 
 
 
 
 
+                    <h2>TBD</h2>
 
 
 
-
-                    <h5>* Confirmation from few of the speakers is awaited</h5>
+                    <!-- <h5>* Confirmation from few of the speakers is awaited</h5> -->
 
                 </div>
             </div>
