@@ -196,79 +196,7 @@ function reviewers(){
             $conf_convrs = array(["Dr. Muneendra Ojha ","mojha.jpg","IIIT Allahabad"],["Dr. Shiv Ram Dubey ","shiv.jpeg","IIIT Allahabad"],["Dr Prasanna Kumar Mishra","prasanna.jpg","IIIT Allahabad"],["Dr Sunny Sharma","sunny.jpg","IIIT Allahabad"]);
 
             $local_chairs = array(["Prof Pritish Kumar Varadwaj","pritish.jpg","IIIT Allahabad"]);
-            $inter_advisory_com = array(
-                                    ["Prof. K. C. Gowda","gowda.png","Former VC, Kuvempu University"],
-                                    ["Prof. Paula Brito","paula.jpg"," University of Porto, Portugal"],
-                                    ["Prof. B.N. Chatterji","bn.jpeg","IIT Kharagpur (Past Affiliation)"],
-                                    ["Prof. G.C Nandi","gc.jpg","IIIT Allahabad"],
-                                    ["Prof.Sushmita Mitra","sm.jpg","ISI Kolkata"],
-                                    ["Prof. Gaurav Sharma","gaurav.jpeg","University of Rochester"],
-                                    ["Prof.  Mohan  S  Kankanhalli","mohan.jpeg","National University of Singapore, Singapore"],
-                                    ["Prof. Jharna Majumdar","jharna.jpeg","Nitte Meenakshi Institute of Technology"],
-                                    ["Dr. P.V VenkitaKrishnan","venkiti.png","Director CPBO, ISRO Bangalore"],
-                                    ["Prof. SN Singh","snsingh.jpeg","IIT Kanpur"],
-                                    ["Dr. JV Thomas","jvthomas.png","Associate Director, STA ISRO Banglore"],
-                                    ["Prof. N V Subba Reddy","subba.jpg","MIT Manipal"],
-                                    ["Prof. KR Ramakrishnan","krr.png","IISC Bangalore"],
-                                    ["Prof. Umapada Pal","umapada.jpeg","ISI Kolkata"],
-                                    ["Prof. B. M. Mehtre","mehtre.jpg","IDRBT Hyderabad"],
-                                    ["Dr. Pradeep Kumar","pradeep.jpeg","CEO, Amphisoft"],
-                                    ["Prof. D.S Guru","dsguru.jpeg","University of Mysore"],
-                                    ["Prof. Anupam Agrawal","anupam.jpg","IIIT Allahabad"],
-                                    ["Prof. O.P Vyas","op.jpeg","IIIT Allahabad"],
-                                    ["Prof. Jonathan Wu","Jonathan.jpg","University of Windsor, Canada"],
-                                    ["Prof. Xiaoyi Jiang","jiang.jpg","University of Münster,Germany"],
-                                    ["Prof. Chirag N. Paunwala","chirag.jpeg","SCET, Surat"],
-                                    ["Prof. Sanjay Kumar Singh","sksingh.jpg","IIT BHU"],
-                                    ["Prof. Suneeta Agarwal","sa.jpg","MNNIT Allahabad"],
-                                    ["Prof. Ananda Shankar Chowdhury","ananda.jpg","Jadavpur University"],
-                                    ["Prof. Aparajita Ojha","aojha.jpg","IIIT Jabalpur"],
-                                    ["Prof. Sushmita Gosh","656.jpg","Jadavpur University"],
-                                    ["Dr. Debashis Sen","deb.jpg","IIT Kharagpur"],
-                                    ["Prof. Daniel P. Lopresti","DPL3.jpg","Lehigh University, USA"],
-                                    ["Prof. Gian Luca Foresti","foresti_bn.jpg","University of Udine, Italy"],
-                                    ["Prof. Josep Lladós","josep.png","Universitat Autònoma de Barcelona, Spain"],
-                                    ["Prof. Massimo Tistarelli","massimo.png","University of Sassari, Italy"],
-                                    ["Prof. Sudeep Sarkar","sarkar.jpg","University of South florida, USA"],
-                                    ["Dr. B. H. Shekhar","bh.jpg","Mangalore University"],
-                                    ["Dr. Watanabe Osamu","osamu.jpeg","Takushoku University, Japan"],
-                                    ["Dr. Thinagaran Perumal","thinagaran.jpg","FSKTM, Malaysia"],
-                                    ["Dr. Sahana Gowda","shahana.png","BNMIT, Bengaluru"],
-                                    ["Dr. Ashish Khare","ashish.jpeg","University of Allahabad"],
-                                    ["Dr. Kiran Raja","kiran.jfif","NTNU Norway"],
-                                    ["Dr. Alireza Alaei","alaei.jfif","Southern Cross University, Australia"],
-                                    ["Dr. Gaurav Gupta","gupta.jpg","Wenzhou-Kean University, China"],
-                                    ["Dr. Prabhu Natarajan","prabhu.jfif","DigiPen Institute of Technology Singapore"],
-                                    ["Dr. Guoqiang Zhong","zhong.jfif","Ocean University of China, China"],
-                                    ["Dr. Juan Tapia Farias","juan.jfif","Doctorado Ing. Eléctrica Universidad de Chile"],
-                                    ["Dr. Sule Yildirim Yayilgan","sule.jpg"," Norwegian University of Science and Technology(NTNU)"],
-                                    ["Dr. Ankit Chaudhary","ankit.jfif","The University of Missouri – St. Louis, USA"],
-                                    ["Dr. Ajita Rattani","rattani.jpg","Wichita State University, USA"],
-                                    ["Dr. Emanuela Marasco","emanuela.jfif","George Mason University USA"],
-                                    ["Dr. Sebastiano Battiato","sebastiano.jpg","Università di Catania - Dipartimento di Matematica ed Informatica, Italy"],
-                                    ["Prof. Bir Bhanu","bir.png","University of California, Riverside, USA"],
-                                    ["Dr. M. Tanveer","tanveer.png","IIT Indore"],
-                                    ["Dr. Puneet Gupta","puneet.jpg","IIT Indore"],
-                                    ["Dr. Munesh C. Trivedi","munesh.jpg","NIT Agartala"],
-                                    ["Dr. Surya Prakash","sp.jpg","IIT Indore"],
-                                    ["Prof. Rajeev Srivastava","rajeev.png","IIT BHU"],
-                                    ["Dr. Somnath Dey","somnath.webp","IIT Indore"],
-                                    ["Prof. Michal Haindl","michal.jpg","Czech Academy of Sciences"],
-                                    ["Prof. Manoj K. Arora","manojkarora.jpg","BML Munjal University"],
-                                    ["Dr. Sharad Sinha","sharad.jpg","IIT Goa"],
-                                    ["Dr. Bunil Kumar Balabantaray","bunil.jpg","NIT Meghalaya"],
-                                    ["Prof. Wei-Ta Chu","chu.jpg","National Chung Cheng University, Chiayi, Taiwan"],
-                                    ["Prof. Ramakrishnan Ganesan Angarai","rama.png","IISc Bangalore"],
-                                    ["Dr. Rajeev Jaiswal","rajeevisro.jpg","Deputy Director, EDPO, ISRO HQ (Bangalore)"],
-                                    ["Dr Manish Kumar","manishKumar.jpg","IIIT Allahabad"],
-                                    ["Dr. Vijay Kumar Chaurasiya ","vkc.jpg","IIIT Allahabad"],
-                                    ["Dr Krishna Pratap Singh","kpsingh.jpg","IIIT Allahabad"],
-                                    ["Dr S. Venkatesan","venka.jpg","IIIT Allahabad"],
-                                    ["Dr Sonali Agarwal","sonali.jpg","IIIT Allahabad"]
-                                );
-
-                                sort($inter_advisory_com);
-        ?>
+            ?>
 
             <div class="row justify-content-center ftco-animate">
                 <h1 class="col-12 text-center border-bottom">Conference Chairs / Secretary</h1>
@@ -291,14 +219,6 @@ function reviewers(){
                 <hr>
                 <?php display_cards($local_chairs);?>
 
-
-            </div>
-
-            <!-- International Advisory Committee -->
-            <div class="row justify-content-center ftco-animate">
-                <h1 class="col-12 text-center border-bottom">International Advisory and Programme Committee</h1>
-                <hr>
-                <?php display_cards($inter_advisory_com);?>
 
             </div>
 
@@ -380,23 +300,6 @@ function reviewers(){
 
             </div>
 
-            <!-- Technical Programme Chair -->
-            <?php 
-            $tech = array(["Dr. Vrijendra Singh (Computers)","vrijsingh.jpg","IIIT Allahabad"],["Dr. Manish Goswami (Electronics)","manish.jpeg","IIIT Allahabad"],[]);
-
-        ?>
-
-            <div class="row justify-content-center ftco-animate">
-                <h1 class="col-12 text-center border-bottom">Technical Programme Chair</h1>
-                <hr>
-                <?php display_cards($tech);?>
-
-                <h4 class="col-12 text-center border-bottom">Technical Programme Committee</h4>
-                <hr>
-                <ol class="col-lg-12">
-                    <?php reviewers();?>
-                </ol>
-            </div>
             
             <div class="row justify-content-center ftco-animate">
                 <h1 class="col-12 text-center border-bottom">Workshop / Tutorial Chair</h1>

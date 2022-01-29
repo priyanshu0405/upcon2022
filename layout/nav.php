@@ -9,7 +9,6 @@
         <div class="collapse navbar-collapse" id="ftco-nav">
             <ul class="navbar-nav ml-auto">
                 <li class="nav-item active"><a href="index.php" class="nav-link">Home</a></li>
-                <li class="nav-item"><a href="organizers.php" class="nav-link">Committee</a></li>
                 <li class="has_children nav-item dropdown">
                     <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#">Committee</a>
                     <ul class="dropdown-menu">
