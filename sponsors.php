@@ -23,6 +23,18 @@
 </section>
 <section id="sponsors" class="ftco-section">
   <div class="container">
+  <div class="row">
+      <div class="col-md-3">
+          <div class="blog-entry justify-content-center">
+          <img width="60%" src="images/cvip/upcon.png" alt="">
+          </div>
+      </div>
+      <div class="col-md-3">
+          <div class="blog-entry justify-content-center">
+          <img width="100%" src="images/cvip/ieeeup.png" alt="">
+          </div>
+      </div>
+  </div>
   <div class="row justify-content-center mb-5">
   <div class="col-md-7 heading-section text-center ftco-animate">
   <h2>Past Sponsors</h2>

@@ -97,7 +97,7 @@
 
                         <hr>
                         <p style="font-size:20;font-weight: bold;text-align:justify">
-                            Conference Brochure: <a href="" target="_blank">Click here</a><br />
+                            Conference Brochure: <a href="files/UPCON.pdf">Click here</a><br />
                             For Paper Submission : <a href="https://cmt3.research.microsoft.com/UPCON2022">Click
                                 here</a><br />
                             For Templates and Instructions : <a href="cfp.php">Click here</a><br>
