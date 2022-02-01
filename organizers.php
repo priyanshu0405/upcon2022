@@ -264,6 +264,17 @@ function reviewers(){
             </div>
 
             <?php 
+            $tech = array(["Dr. Vrijendra Singh (Computers)","vrijsingh.jpg","IIIT Allahabad"],["Dr. Manish Goswami (Electronics)","manish.jpeg","IIIT Allahabad"],[]);
+
+            ?>
+
+            <div class="row justify-content-center ftco-animate">
+                <h1 class="col-12 text-center border-bottom">Technical Programme Chair</h1>
+                <hr>
+                <?php display_cards($tech);?>
+            </div>
+
+            <?php 
         $publication_chair = array( 
         ["Dr. Varun Kumar Kakar","vkk.png","BTKIT Dwarahat"]          );
 

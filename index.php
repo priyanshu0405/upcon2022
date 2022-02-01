@@ -102,9 +102,7 @@
                                 here</a><br />
                             For Templates and Instructions : <a href="cfp.php">Click here</a><br>
                             For any queries contact : <mark>upcon2022@iiita.ac.in</mark><br>
-                            <mark>Note: Virtual Presentation will be allowed due to COVID-19 Pandemic, the conference will take place in hybrid mode. High quality
-                                Research papers, that are accepted, registered and presented in UPCON2022 will be invited
-                                to submit their extended versions to the <u>IEEE Journals</u></mark><br>
+                            <mark>Note: Virtual Presentation will be allowed due to COVID-19 Pandemic, the conference will take place in hybrid mode.</mark><br>
                         </p>
 
                     </div>
@@ -128,25 +126,38 @@
                         <div style="font-weight: bold;" class="row justify-content-left mb-12">
                             <div class="col-md-6">
                                 <ul>
-                                    <li>AI, Robotics and Automation</li>
+                                    <!-- <li>AI, Robotics and Automation</li>
                                     <li>Signal & Image Processing</li>
                                     <li>Computational Intelligence</li>
                                     <li>Computer Vision and Machine Learning</li>
                                     <li>Neural Networks and Learning Systems</li>
                                     <li>Control Theories & Applications</li>
                                     <li>Electric Power & Energy systems</li>
-                                    <li>Power Electronics & its Applications</li>
+                                    <li>Power Electronics & its Applications</li> -->
+                                    <li>Electronics Devices, Circuits and Systems </li>
+                                    <li> Network Technologies and Systems </li>
+                                    <li> Signal Processing </li>
+                                    <li> Data Mining and Big Data Analysis </li>
+                                    <li> Communication Technologies and Systems </li>
+                                    <li> Bioinformatics and Machine Learning Algorithms </li>
                                 </ul>
                             </div>
                             <div class="col-md-6">
                                 <ul>
-                                    <li>Industrial Applications</li>
+                                    <li> Multimedia Processing Technologies and Systems </li>
+                                    <li> Power Systems </li>
+                                    <li> Language Technologies and Information Retrieval </li>
+                                    <li> Machines and Instumentation </li>
+                                    <li> Robotics and Artificial Intelligence </li>
+                                    <li> Power Electronics and Control Engineering </li>
+
+                                    <!-- <li>Industrial Applications</li>
                                     <li>Computer Networks</li>
                                     <li>Communication & Networking</li>
                                     <li>Information & Communication Technology</li>
                                     <li>VLSI & System Design</li>
                                     <li>Microwave, Antennas, & R.F</li>
-                                    <li>Humanitarian Technology</li>
+                                    <li>Humanitarian Technology</li> -->
                                 </ul>
                             </div>
                         </div>

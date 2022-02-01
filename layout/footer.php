@@ -17,7 +17,7 @@
           <ul class="list-unstyled">
             <li><a href="speakers.php" class="py-2 d-block">Speakers</a></li>
             <li><a href="cfp.php" class="py-2 d-block">CFP</a></li>
-            <li><a href="register.php" class="py-2 d-block">Registration</a></li>
+            <!-- <li><a href="register.php" class="py-2 d-block">Registration</a></li> -->
           </ul>
         </div>
       </div>

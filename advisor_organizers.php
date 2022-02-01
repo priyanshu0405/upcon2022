@@ -142,7 +142,9 @@ function reviewers(){
                                     ["Dr S. Venkatesan","venka.jpg","IIIT Allahabad"],
                                     ["Dr Sonali Agarwal","sonali.jpg","IIIT Allahabad"],
                                     ["Dr. Vrijendra Singh (Computers)","vrijsingh.jpg","IIIT Allahabad"],
-                                    ["Dr. Manish Goswami (Electronics)","manish.jpeg","IIIT Allahabad"]
+                                    ["Dr. Manish Goswami (Electronics)","manish.jpeg","IIIT Allahabad"],
+                                    ["Dr. R. K. Agrawal","rka.jpg","Jawaharlal Nehru University, New Delhi"],
+                                    ["Dr. D. P. Vidyarthi","dpv.jpeg","Jawaharlal Nehru University, New Delhi"]
                                 );
 
                                 sort($inter_advisory_com);

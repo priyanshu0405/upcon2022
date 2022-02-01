@@ -12,8 +12,8 @@
                 <li class="has_children nav-item dropdown">
                     <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#">Committee</a>
                     <ul class="dropdown-menu">
-                        <li style="margin:4%"><a href="organizers.php">Organizing Committee</a></li>
                         <li style="margin:4%"><a href="advisor_organizers.php">Advisory Committee</a></li>
+                        <li style="margin:4%"><a href="organizers.php">Organizing Committee</a></li>
                         <li style="margin:4%"><a href="tech_organizers.php">Technical Programme Committee</a></li>
                         <!-- <li style="margin:4%"><a href="#">Camera Ready Submission</a></li>			 -->
                     </ul>
