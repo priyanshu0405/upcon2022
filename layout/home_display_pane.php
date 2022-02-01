@@ -5,9 +5,9 @@
             data-scrollax-parent="true">
             <div class="col-12 ftco-animate " data-scrollax=" properties: { translateY: '70%' }">
                 <h1 class="mb-1 font-weight-bold text-uppercase"
-                    data-scrollax="properties: { translateY: '30%', opacity: 1.6 }" style=" color:orange;">9<sup
+                    data-scrollax="properties: { translateY: '30%', opacity: 1.6 }" style=" color:darkorange;">9<sup
                         class="text-lowercase">th</sup> IEEE UP Section Conference on <br><span
-                        style="font-size: 50px; color:lightskyblue">Electrical, Electronics and Computer Engineering</span></h1>
+                        style="font-size: 50px; color:darkblue">Electrical, Electronics and Computer Engineering</span></h1>
                 <p class="mb-1"
                     style="color:white;display: inline-block;height: 32px;padding-left: 22px;padding-right: 24px;background: #7f66ff;align-items: center;justify-content: flex-start"
                     data-scrollax="properties: { translateY: '30%', opacity: 1.6 }"><span
