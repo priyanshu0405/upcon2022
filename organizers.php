@@ -116,13 +116,13 @@ function reviewers(){
                     </div>
                 </div>
 
-                <div class="card" style="width: 15rem; margin: 5px;">
+                <!-- <div class="card" style="width: 15rem; margin: 5px;">
                     <img class="card-img-top" src="images/cvip/committee/ust.jpeg" alt="">
                     <div class="card-body">
                         <h5 class="card-title">Prof. U.S Tiwari</h5>
                         <p class="card-text">IIIT Allahabad</p>
                     </div>
-                </div>
+                </div> -->
 
                 <div class="card" style="width: 15rem; margin: 5px;">
                     <img class="card-img-top" src="images/cvip/committee/aksingh.jpg" alt="">
@@ -214,13 +214,13 @@ function reviewers(){
 
             <!-- Local Organizing Chair -->
 
-            <div class="row justify-content-center ftco-animate">
+            <!-- <div class="row justify-content-center ftco-animate">
                 <h1 class="col-12 text-center border-bottom">Local Organizing Chair</h1>
                 <hr>
                 <?php display_cards($local_chairs);?>
 
 
-            </div>
+            </div> -->
 
             <!-- Advisory or Programme Committee -->
             <?php 
@@ -289,7 +289,9 @@ function reviewers(){
 
             <!-- Sponsorship Chair -->
             <?php 
-            $spons = array(["Dr. Anjali Gautam ","anjali.jpg","IIIT Allahabad"],["Dr. Boddepalli SanthiBhushan ","shantiBhushan.jpg","IIIT Allahabad"],["Dr. Amaresh Kumar Sahoo","amaresh.png","IIIT Allahabad"],["Dr Abdullah Bin Abu Baker","abdulla.jpeg","IIIT Allahabad"]);
+            $spons = array(["Dr. Anjali Gautam ","anjali.jpg","IIIT Allahabad"],["Dr. Boddepalli SanthiBhushan ","shantiBhushan.jpg","IIIT Allahabad"],["Dr. Amaresh Kumar Sahoo","amaresh.png","IIIT Allahabad"]
+            // ,["Dr Abdullah Bin Abu Baker","abdulla.jpeg","IIIT Allahabad"]
+        );
         ?>
 
             <div class="row justify-content-center ftco-animate">
@@ -366,7 +368,7 @@ function reviewers(){
 
             </div>
 
-            <div class="row justify-content-center ftco-animate">
+            <!-- <div class="row justify-content-center ftco-animate">
                 <h1 class="col-12 text-center border-bottom">Award Committee</h1>
                 <hr>
                 <div class="card" style="width: 15rem; margin: 5px;">
@@ -385,7 +387,7 @@ function reviewers(){
                     </div>
                 </div>
                 
-            </div>
+            </div> -->
 
         </div>
 

@@ -30,7 +30,7 @@
         <div class="container">
             <div class="row justify-content-center mb-5">
                 <div class="col-md-7 heading-section text-center ftco-animate text-uppercase">
-                    <h2>Call For Papers <a href="files/UPCON.pdf"><i style="color:black" class="fa fa-download" aria-hidden="true"></i></a></h2>
+                    <h2>Call For Papers <a href="files/UPCON_FINAL.pdf"><i style="color:black" class="fa fa-download" aria-hidden="true"></i></a></h2>
                 </div>
 
             </div>
