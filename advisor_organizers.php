@@ -97,7 +97,7 @@ function reviewers(){
                                     ["Dr. Sivaji Chakravorti","sivaji.jpg","Jadavpur University"],
                                     // ["Prof. Paula Brito","paula.jpg"," University of Porto, Portugal"],
                                     ["Prof. B.N. Chatterji","bn.jpeg","IIT Kharagpur (Past Affiliation)"],
-                                    ["Prof. G.C Nandi","gc.jpg","IIIT Allahabad"],
+                                    // ["Prof. G.C Nandi","gc.jpg","IIIT Allahabad"],
                                     // ["Prof.Sushmita Mitra","sm.jpg","ISI Kolkata"],
                                     // ["Prof.  Mohan  S  Kankanhalli","mohan.jpeg","National University of Singapore, Singapore"],
                                     // ["Prof. Jharna Majumdar","jharna.jpeg","Nitte Meenakshi Institute of Technology"],
@@ -106,8 +106,8 @@ function reviewers(){
                                     // ["Prof. KR Ramakrishnan","krr.png","IISC Bangalore"],
                                     // ["Prof. Umapada Pal","umapada.jpeg","ISI Kolkata"],
                                     // ["Prof. B. M. Mehtre","mehtre.jpg","IDRBT Hyderabad"],
-                                    ["Prof. Anupam Agrawal","anupam.jpg","IIIT Allahabad"],
-                                    ["Prof. O.P Vyas","op.jpeg","IIIT Allahabad"],
+                                    // ["Prof. Anupam Agrawal","anupam.jpg","IIIT Allahabad"],
+                                    // ["Prof. O.P Vyas","op.jpeg","IIIT Allahabad"],
                                     // ["Prof. Jonathan Wu","Jonathan.jpg","University of Windsor, Canada"],
                                     // ["Prof. Sanjay Kumar Singh","sksingh.jpg","IIT BHU"],
                                     // ["Prof. Suneeta Agarwal","sa.jpg","MNNIT Allahabad"],
@@ -140,18 +140,19 @@ function reviewers(){
                                     // ["Prof. Wei-Ta Chu","chu.jpg","National Chung Cheng University, Chiayi, Taiwan"],
                                     // ["Prof. Ramakrishnan Ganesan Angarai","rama.png","IISc Bangalore"],
                                     // ["Dr. Rajeev Jaiswal","rajeevisro.jpg","Deputy Director, EDPO, ISRO HQ (Bangalore)"],
-                                    ["Dr Manish Kumar","manishKumar.jpg","IIIT Allahabad"],
-                                    ["Dr. Vijay Kumar Chaurasiya ","vkc.jpg","IIIT Allahabad"],
-                                    ["Dr Krishna Pratap Singh","kpsingh.jpg","IIIT Allahabad"],
-                                    ["Dr S. Venkatesan","venka.jpg","IIIT Allahabad"],
-                                    ["Dr Sonali Agarwal","sonali.jpg","IIIT Allahabad"],
-                                    ["Dr. Vrijendra Singh (Computers)","vrijsingh.jpg","IIIT Allahabad"],
-                                    ["Dr. Manish Goswami (Electronics)","manish.jpeg","IIIT Allahabad"],
-                                    // ["Dr. R. K. Agrawal","rka.jpg","Jawaharlal Nehru University, New Delhi"],
-                                    // ["Dr. D. P. Vidyarthi","dpv.jpeg","Jawaharlal Nehru University, New Delhi"]
+                                    // ["Dr Manish Kumar","manishKumar.jpg","IIIT Allahabad"],
+                                    // ["Dr. Vijay Kumar Chaurasiya ","vkc.jpg","IIIT Allahabad"],
+                                    // ["Dr Krishna Pratap Singh","kpsingh.jpg","IIIT Allahabad"],
+                                    // ["Dr S. Venkatesan","venka.jpg","IIIT Allahabad"],
+                                    // ["Dr Sonali Agarwal","sonali.jpg","IIIT Allahabad"],
+                                    // ["Dr. Vrijendra Singh (Computers)","vrijsingh.jpg","IIIT Allahabad"],
+                                    // ["Dr. Manish Goswami (Electronics)","manish.jpeg","IIIT Allahabad"],
+                                    ["Mr. Puneet Kumar Mishra","pmishra.jpeg","ISRO"],
+                                    ["Dr. R. K. Agrawal","rka.jpg","Jawaharlal Nehru University, New Delhi"],
+                                    ["Dr. D. P. Vidyarthi","dpv.jpeg","Jawaharlal Nehru University, New Delhi"]
                                 );
 
-                                sort($inter_advisory_com);
+                                // sort($inter_advisory_com);
             ?>
 
 
