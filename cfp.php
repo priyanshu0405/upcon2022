@@ -79,12 +79,14 @@
                 <p></p>
                 <h4 style="color:#96281B"><b>Important Dates:</b><br></h4>
                 <p>
-                    Start of paper submission on Easy Chair : <b>1 Jan, 2022</b><br>
-                    Last date for submission of paper : <b>31 July, 2022</b><br>
-                    Rolling Acceptance : <b>31 Sept, 2022</b><br>
-                    Registration deadline: <b>10 Nov, 2022(Extended Upto 20 Nov, 2022)</b><br>
-                    Camera ready submission : <b>10 Nov, 2022</b><br>
-                    Conference Dates : <b>2-4 Dec, 2022</b><br>
+                    Call for Paper Opens on : <b>01 January, 2022</b><br>
+                    Rolling Acceptance (Round 1) : <b>31 March, 2022</b><br>
+                    Rolling Acceptance (Round 2) : <b>30 June, 2022</b><br>
+                    Rolling Acceptance (Round 3) : <b>31 September, 2022</b><br>
+                    Final Submission Deadline : <b>31 July, 2022</b><br>
+                    Early Bird Registration Deadline* : <b>10 November, 2022</b><br>
+                    Camera Ready Submission : <b>10 November, 2022</b><br>
+                    Late Registration (Extra fee) : <b>20 November, 2022</b><br>
                 </p>
                 <h4 style="color:#96281B"><b>Paper Submission:</b></h4>
                 <p>
