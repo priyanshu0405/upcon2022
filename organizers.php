@@ -88,7 +88,7 @@ function reviewers(){
                 </div>
 
                 <div class="card" style="width: 15rem;  margin: 5px;">
-                    <img class="card-img-top" src="images/cvip/committee/sriniwas.jpg" alt="" style="height:20rem;">
+                    <img class="card-img-top" src="images/cvip/committee/sriniwas.jpg" alt="" style="height:15rem;">
                     <div class="card-body">
                         <h5 class="card-title">Prof. Sri Niwas Singh</h5>
                         <p class="card-text">IIT Kanpur</p>
@@ -96,7 +96,7 @@ function reviewers(){
                 </div>
 
                 <div class="card" style="width: 15rem; margin: 5px;">
-                    <img class="card-img-top" src="images/cvip/committee/test2.jpeg" alt="" style="height:20rem;">
+                    <img class="card-img-top" src="images/cvip/committee/test2.jpeg" alt="" style="height:15rem;">
                     <div class="card-body">
                         <h5 class="card-title">test</h5>
                         <p class="card-text">IIT Kanpur</p>
