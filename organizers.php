@@ -79,16 +79,16 @@ function reviewers(){
             <div class="row justify-content-center ftco-animate">
                 <h1 class="col-12 text-center border-bottom">Chief Patron</h1>
                 <hr>
-                <div class="card" style="width: 15rem; height: 25rem; margin: 5px;">
-                    <img class="card-img-top" src="images/cvip/committee/naghabushan.jpg" alt="">
+                <div class="card" style="width: 15rem; margin: 5px;">
+                    <img class="card-img-top" src="images/cvip/committee/naghabushan.jpg" alt="" style="height:20rem;">
                     <div class="card-body">
                         <h5 class="card-title">Prof. P. Nagabhushan</h5>
                         <p class="card-text">Director, IIIT Allahabad</p>
                     </div>
                 </div>
 
-                <div class="card" style="width: 15rem; height: 25rem; margin: 5px;">
-                    <img class="card-img-top" src="images/cvip/committee/sriniwas.jpg" alt="">
+                <div class="card" style="width: 15rem;  margin: 5px;">
+                    <img class="card-img-top" src="images/cvip/committee/sriniwas.jpg" alt="" style="height:20rem;">
                     <div class="card-body">
                         <h5 class="card-title">Prof. Sri Niwas Singh</h5>
                         <p class="card-text">IIT Kanpur</p>
@@ -96,7 +96,7 @@ function reviewers(){
                 </div>
 
                 <div class="card" style="width: 15rem; margin: 5px;">
-                    <img class="card-img-top" src="images/cvip/committee/test1.jpeg" alt="">
+                    <img class="card-img-top" src="images/cvip/committee/test2.jpeg" alt="" style="height:20rem;">
                     <div class="card-body">
                         <h5 class="card-title">test</h5>
                         <p class="card-text">IIT Kanpur</p>
