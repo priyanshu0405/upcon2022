@@ -96,7 +96,7 @@ function reviewers(){
                 </div>
 
                 <div class="card" style="width: 15rem; margin: 5px;">
-                    <img class="card-img-top" src="images/cvip/committee/test2.jpeg" alt="" style="height:15rem;">
+                    <img class="card-img-top" src="images/cvip/committee/test2.jpeg" alt="" style="height:250px;">
                     <div class="card-body">
                         <h5 class="card-title">test</h5>
                         <p class="card-text">IIT Kanpur</p>
