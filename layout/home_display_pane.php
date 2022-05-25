@@ -34,7 +34,7 @@
                     <br>
                     <br>
                     <br>
-                    <img width="100%" src="images/cvip/ieeeup1.png" alt="">
+                    <img width="100%" src="images/cvip/ieeeup.png" alt="">
                 </div>
             </div>
             <span class="lead bg-dark col-12 pl-2"><a style="color: yellow;" href="awards.php" target="_blank">
